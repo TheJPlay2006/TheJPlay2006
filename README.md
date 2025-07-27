@@ -151,12 +151,6 @@ public class LearningJourney {
 <img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=500&hide_border=true" alt="Steam Gaming Stats"/>
 </div>
 
-### 🔗 Connect & Game Together
-[![Add me on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Message on Discord](https://img.shields.io/badge/-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
-
-🎮 Ready for gaming sessions • 💬 Always up for a chat • 🎵 Music & anime talks
-
 </div>=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
