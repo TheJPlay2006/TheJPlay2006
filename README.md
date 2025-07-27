@@ -14,18 +14,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Hey there! I'm a student at **Universidad Técnica Nacional (UTN)** 🏫, where I'm exploring the fascinating world of programming. I like a bit of everything in tech, but I'm definitely more inclined towards **programming** 💻.
+Hi! I'm a student at the **National Technical University (UTN)** 🏫, where I'm exploring the world of programming. I like a bit of everything in technology, but I definitely lean more toward programming and platforms 💻.
 
-- 🌱 I'm currently learning **Java** and **SQL**
-- 👨‍💻 All of my projects are available at my repositories
-- 💬 Ask me about **Java, SQL, Gaming, Anime**
-- ⚡ Fun fact: **I can debug code and anime plot holes equally well!**
-- 🎯 Goal: **Become a full-stack developer**
+- 🌱 I'm currently learning **Java, SQL, and Python**
+- 👨‍💻 All my projects are available in my repositories
+- 🎯 Goal: **Become a great professional in the IT field**
 
-When I'm not coding, you'll probably find me:
-- 🎮 **Gaming** - Exploring virtual worlds
-- 🍜 **Watching anime** - Currently obsessed with action/adventure series
-- 🎵 **Listening to music** - Everything from Lo-Fi to Rock!
+When I'm not programming, you'll probably find me:
+- 🎮 **Video games** - Exploring virtual worlds
+- 🍜 **Watching anime** - I'm obsessed with action, romance, and shonen anime
+- 🎵 **Listening to music** - I listen to everything!
 - 📚 **Reading tech blogs** - Always learning something new
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +43,7 @@ When I'm not coding, you'll probably find me:
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shield.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌱 Currently Learning
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -133,13 +131,24 @@ public class LearningJourney {
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
+- 🎮 Talk about games
+- 🍜 Discuss anime recommendations  
+- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Random Dev Quote
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   
@@ -147,7 +156,7 @@ public class LearningJourney {
   
 </div>
 
----
+## 💭 Random Dev Quote
 
 <div align="center">
   
