@@ -131,7 +131,7 @@ public class LearningJourney {
 
 ### 🎮 Steam Profile
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&card_width=400" alt="Steam Profile"/>
+<img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=400" alt="Steam Profile"/>
 </a>
 
 </td>
@@ -139,7 +139,7 @@ public class LearningJourney {
 
 ### 💬 Discord Presence
 <a href="https://discord.com/users/724431024758718485">
-<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20or%20gaming..." alt="Discord Presence"/>
+<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Presence"/>
 </a>
 
 </td>
@@ -148,7 +148,7 @@ public class LearningJourney {
 
 ### 📊 Steam Gaming Stats
 <div align="center">
-<img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=500&hide_border=true" alt="Steam Gaming Stats"/>
+<img src="https://github-readme-steam-stats.vercel.app/api/76561199204811122?theme=dark&card_width=500" alt="Steam Gaming Stats"/>
 </div>
 
 </div>
