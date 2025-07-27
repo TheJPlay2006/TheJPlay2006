@@ -136,23 +136,6 @@ public class LearningJourney {
 
 **🎯 Currently Playing:** *Check my Steam for live updates!*
 
-</div>
-
-<div align="left">
-
-**🏆 Gaming Stats:**
-- 🖥️ **Platform:** PC Master Race
-- 🎮 **Genres:** Action, Adventure, RPG  
-- 🎯 **Mission:** Completing my game backlog
-
-**🌟 Gaming Style:**
-- 🌍 Open-world explorer
-- 🏅 Achievement hunter
-- 🤝 Co-op enthusiast
-- 🕒 Evening & weekend gamer
-
-</div>
-
 <div align="center">
 
 **🎮 Want to Game Together? Add me and let's play!** 🤝
