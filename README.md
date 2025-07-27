@@ -56,23 +56,21 @@ When I'm not programming, you'll probably find me:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheJPlay2006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJPlay2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheJPlay2006&theme=radical&hide_border=true)
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheJPlay2006&theme=radical&hide_border=true)
+
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=TheJPlay2006&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
+![trophy](https://github-profile-trophy.vercel.app/?username=TheJPlay2006&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -81,10 +79,9 @@ When I'm not programming, you'll probably find me:
 
 ```java
 public class LearningJourney {
-    
     private String[] currentGoals = {
         "🏆 Master Java fundamentals",
-        "🗄️ Become proficient in SQL and Database Design", 
+        "🗄️ Become proficient in SQL and Database Design",
         "🌐 Learn JavaScript and web development",
         "🐍 Explore Python for versatility",
         "🚀 Build my first full-stack project",
@@ -94,7 +91,7 @@ public class LearningJourney {
     
     private String[] completedAchievements = {
         "✅ Started my programming journey",
-        "✅ Learned basic Java syntax", 
+        "✅ Learned basic Java syntax",
         "✅ Understanding SQL queries",
         "✅ Created my first GitHub profile",
         "✅ Joined the coding community"
@@ -104,66 +101,106 @@ public class LearningJourney {
         System.out.println("🎯 My Learning Journey:");
         System.out.println("\n📚 What I'm working on:");
         for(String goal : currentGoals) {
-            System.out.println("  " + goal);
+            System.out.println("   " + goal);
         }
-        
         System.out.println("\n🏆 What I've achieved:");
         for(String achievement : completedAchievements) {
-            System.out.println("  " + achievement);
+            System.out.println("   " + achievement);
         }
     }
 }
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🐍 GitHub Contribution Snake
-<div align="center">
-https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🎮 Gaming & Social Zone
-<div align="center">
-⚡ Live Status
-https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+## 🐍 GitHub Contribution Snake
 
-<table> <tr> <td align="center" width="50%"> <h3>🎮 Steam Profile</h3> <a href="https://steamcommunity.com/profiles/76561199204811122"> <img src="https://steam-card.vercel.app/api/76561199204811122?theme=dark" alt="Steam Profile" width="100%"> </a> </td> <td align="center" width="50%"> <h3>💬 Discord Presence</h3> <a href="https://discord.com/users/724431024758718485"> <img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&borderRadius=10px&hideDiscrim=true" alt="Discord Status" width="100%"> </a> </td> </tr> </table>
-📊 Gaming Statistics
-<div align="center"> <a href="https://steamcommunity.com/profiles/76561199204811122"> <img src="https://github-readme-steam-stats.vercel.app/api/76561199204811122?theme=dark" alt="Steam Stats" width="75%"> </a> </div>
-🔗 Connect With Me
-https://img.shields.io/badge/-Add%2520on%2520Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-https://img.shields.io/badge/-Chat%2520on%2520Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎮 Gaming & Social Zone
+
+<div align="center">
+
+### ⚡ Live Status
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎮 Steam Profile</h3>
+      <a href="https://steamcommunity.com/profiles/76561199204811122">
+        <img src="https://steam-card.vercel.app/api/76561199204811122?theme=dark" alt="Steam Profile" width="100%">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>💬 Discord Presence</h3>
+      <a href="https://discord.com/users/724431024758718485">
+        <img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&borderRadius=10px&hideDiscrim=true" alt="Discord Status" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📊 Gaming Statistics
+<div align="center">
+  <a href="https://steamcommunity.com/profiles/76561199204811122">
+    <img src="https://github-readme-steam-stats.vercel.app/api/76561199204811122?theme=dark" alt="Steam Stats" width="75%">
+  </a>
+</div>
+
+### 🔗 Connect With Me
+[![Add on Steam](https://img.shields.io/badge/-Add%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Chat on Discord](https://img.shields.io/badge/-Chat%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
 🎮 Ready for gaming sessions • 💬 Always up for a chat • 🎵 Music & anime talks
 
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-📫 Let's Connect!
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📫 Let's Connect!
+
 <div align="center">
-https://img.shields.io/badge/%F0%9F%93%A7%2520Send%2520Email-jh599350@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-💬 Fun Ways to Reach Me:
-Email me if you want to:
+[![Send Email](https://img.shields.io/badge/📧%20Send%20Email-jh599350@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
 
-🤝 Collaborate on a project
+### 💬 Fun Ways to Reach Me:
 
-💡 Share coding tips
-
-🎮 Talk about games (or game together!)
-
-🍜 Discuss anime recommendations
-
-🎵 Exchange music playlists
-
-☕ Just chat about tech!
-
-</div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-💭 Random Dev Quote
-<div align="center">
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+**Email me if you want to:**
+- 🤝 Collaborate on a project
+- 💡 Share coding tips
+- 🎮 Talk about games (or game together!)
+- 🍜 Discuss anime recommendations
+- 🎵 Exchange music playlists
+- ☕ Just chat about tech!
 
 </div>
-<div align="center">
-https://visitor-badge.laobi.icu/badge?page_id=TheJPlay2006.TheJPlay2006
-https://img.shields.io/github/followers/TheJPlay2006?logo=GitHub&style=for-the-badge
-https://img.shields.io/github/stars/TheJPlay2006?logo=github&style=for-the-badge
 
-</div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" /> </div>
-🎉 Thanks for visiting! Hope you enjoyed the journey through my profile!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheJPlay2006.TheJPlay2006)
+![GitHub followers](https://img.shields.io/github/followers/TheJPlay2006?logo=GitHub&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/TheJPlay2006?logo=github&style=for-the-badge)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
+
+## 🎉 Thanks for visiting! Hope you enjoyed the journey through my profile!
