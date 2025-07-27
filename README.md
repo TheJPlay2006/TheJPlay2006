@@ -167,9 +167,28 @@ public class LearningJourney {
 <td width="50%">
 
 **🎮 Gaming Infrastructure:**
+- 🖥️ **Platform:** PC Master Race Elite
 - ⚡ **Status:** <img src="https://img.shields.io/badge/🟢%20Online-Ready%20to%20Game-00ff00?style=flat-square"/>
+- 🎯 **Current Mission:** Completing Cyberpunk 2077
+- 🏅 **Achievement Rate:** 94% completion average
+- 🎪 **Favorite Genre:** Open World RPGs
 
 </td>
+<td width="50%">
+
+**💬 Discord Elite Status:**
+- 🌟 **Server Roles:** Gaming Coordinator
+- 🎵 **Music Bot:** Always sharing bangers
+- 🤝 **Voice Chat:** Available evenings (GMT-6)
+- 🍜 **Anime Discussions:** Weekly watch parties
+- 💻 **Code Reviews:** Help with Java/SQL anytime
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
 <div align="center">
@@ -278,6 +297,9 @@ public class LearningJourney {
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
+- 🎮 Talk about games (or game together!)
+- 🍜 Discuss anime recommendations  
+- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
