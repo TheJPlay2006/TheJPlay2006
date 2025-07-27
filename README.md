@@ -75,7 +75,7 @@ When I'm not programming, you'll probably find me:
   
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Goals & Learning Path
 
@@ -117,26 +117,6 @@ public class LearningJourney {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
-
-### 💬 Fun Ways to Reach Me:
-**Email me if you want to:**
-- 🤝 Collaborate on a project
-- 💡 Share coding tips
-- ☕ Just chat about tech!
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
@@ -154,6 +134,25 @@ public class LearningJourney {
 ### ⚡ Steam Profile
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
 
+**🎯 Currently Playing:** *Check my Steam for live updates!*
+
+</div>
+
+<div align="left">
+
+**🏆 Gaming Stats:**
+- 🖥️ **Platform:** PC Master Race
+- 🎮 **Genres:** Action, Adventure, RPG  
+- 🎯 **Mission:** Completing my game backlog
+
+**🌟 Gaming Style:**
+- 🌍 Open-world explorer
+- 🏅 Achievement hunter
+- 🤝 Co-op enthusiast
+- 🕒 Evening & weekend gamer
+
+</div>
+
 <div align="center">
 
 **🎮 Want to Game Together? Add me and let's play!** 🤝
@@ -164,13 +163,31 @@ public class LearningJourney {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20Send%20Email-jh599350@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jh599350@gmail.com&su=Hello%20from%20GitHub!&body=Hi%20Jairo!%20I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.)
+
+### 💬 Fun Ways to Reach Me:
+**Email me if you want to:**
+- 🤝 Collaborate on a project
+- 💡 Share coding tips
+- ☕ Just chat about tech!
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Random Dev Quote
+
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
 
-## 💭 Random Dev Quote
+---
 
 <div align="center">
   
