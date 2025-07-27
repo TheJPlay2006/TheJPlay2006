@@ -146,24 +146,6 @@ public class LearningJourney {
 </tr>
 </table>
 
-### 📊 Steam Gaming Stats
-<div align="center">
-
-<!-- Steam Stats con tu API Key -->
-<img src="https://steam-stat-api.vercel.app/api?steamid=76561199204811122&key=E621A031C194C1E11807AB616FC75266&theme=dark&chart=playtime" alt="Steam Gaming Stats"/>
-
-<!-- Alternativa con gráficas diferentes -->
-<img src="https://github-readme-steam-stats.herokuapp.com/api/76561199204811122?apikey=E621A031C194C1E11807AB616FC75266&theme=dark&show_games=5" alt="Steam Playtime Chart"/>
-
-<!-- Steam Activity Heatmap -->
-<img src="https://steam-activity-chart.vercel.app/api/76561199204811122?apikey=E621A031C194C1E11807AB616FC75266&theme=dark" alt="Steam Activity Heatmap"/>
-
-</div>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📫 Let's Connect!
 
 <div align="center">
