@@ -126,26 +126,11 @@ public class LearningJourney {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-
-### 🎮 Gaming Profile
-<div align="center">
-  
-  **🎮 Check out my Steam profile for gaming stats!**
-  
-  [![Steam Profile](https://img.shields.io/badge/Steam%20Profile-Visit-blue?style=for-the-badge&logo=steam)](https://steamcommunity.com/profiles/76561199204811122)
-  
-  *Recent games, achievements, and hours played available on Steam*
-  
-</div>
 
 ### 💬 Fun Ways to Reach Me:
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
-- 🎮 Talk about games
-- 🍜 Discuss anime recommendations  
-- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
@@ -157,6 +142,46 @@ public class LearningJourney {
 <div align="center">
   
   ![Snake animation](https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎮 Gaming Zone
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="400" height="200"/>
+</div>
+
+### 🎮 Steam Profile
+<div align="center">
+  
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+  
+  **🎯 Currently Playing:** *Check my Steam for live updates!*
+  
+  **🏆 Gaming Stats:**
+  - 🎮 **Platform:** PC Master Race
+  - 🕹️ **Favorite Genres:** Action, Adventure, RPG
+  - 🏅 **Steam Level:** *Visit my profile to see!*
+  - 🎯 **Current Goal:** Completing my game backlog
+  
+  ---
+  
+  **💡 Fun Gaming Facts:**
+  - 🌍 I love exploring open-world games
+  - 🎯 Achievement hunter in progress
+  - 🎮 Always up for co-op games with friends
+  - 🕒 Gaming sessions: Usually evenings & weekends
+  
+</div>
+
+### 🎮 Want to Game Together?
+<div align="center">
+  
+  **Add me on Steam and let's play!** 🤝
+  
+  ![Gaming](https://img.shields.io/badge/Status-Online%20for%20Gaming-brightgreen?style=for-the-badge&logo=steam)
   
 </div>
 
