@@ -41,16 +41,15 @@ When I'm not coding, you'll probably find me:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shield.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌱 Currently Learning
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -78,40 +77,7 @@ When I'm not coding, you'll probably find me:
   
 </div>
 
-### 📈 Activity Graph
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheJPlay2006&theme=radical&hide_border=true)
-  
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 Gaming & Interests
-
-<div align="center">
-
-### 🎮 Favorite Game Genres
-![Action](https://img.shields.io/badge/Action-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white)
-![RPG](https://img.shields.io/badge/RPG-4ECDC4?style=for-the-badge&logo=dragon&logoColor=white)
-![Adventure](https://img.shields.io/badge/Adventure-45B7D1?style=for-the-badge&logo=compass&logoColor=white)
-![Strategy](https://img.shields.io/badge/Strategy-F9CA24?style=for-the-badge&logo=chess-knight&logoColor=white)
-
-### 🍜 Anime Genres I Love
-![Action](https://img.shields.io/badge/Action-E74C3C?style=for-the-badge&logo=fire&logoColor=white)
-![Adventure](https://img.shields.io/badge/Adventure-3498DB?style=for-the-badge&logo=mountain&logoColor=white)
-![Shounen](https://img.shields.io/badge/Shounen-F39C12?style=for-the-badge&logo=star&logoColor=white)
-![Fantasy](https://img.shields.io/badge/Fantasy-9B59B6?style=for-the-badge&logo=magic&logoColor=white)
-
-### 🎵 Music Vibes
-![Lo-Fi](https://img.shields.io/badge/Lo--Fi-FF9FF3?style=for-the-badge&logo=music&logoColor=white)
-![Rock](https://img.shields.io/badge/Rock-54A0FF?style=for-the-badge&logo=guitar&logoColor=white)
-![Electronic](https://img.shields.io/badge/Electronic-5F27CD?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Pop](https://img.shields.io/badge/Pop-FF6B6B?style=for-the-badge&logo=spotify&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Goals & Learning Path
 
@@ -153,51 +119,20 @@ public class LearningJourney {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/TheJPlay2006/TheJPlay2006/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Detailed Stats
-
-<div align="center">
-
-### 💻 Weekly Development Breakdown
-```text
-Java         ████████████░░░░░░░░░░░░░   50.2% 
-SQL          ██████░░░░░░░░░░░░░░░░░░░   25.4%
-HTML/CSS     ████░░░░░░░░░░░░░░░░░░░░░   15.8%
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    8.6%
-```
-
-### 🔥 Streak Stats
-- 🔥 Current Streak: **Keep going!**
-- 📅 Best Streak: **Growing every day**
-- 💪 Total Contributions: **Building my portfolio**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheJPlay2006)
 
 ### 💬 Fun Ways to Reach Me:
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
-- 🎮 Talk about games
-- 🍜 Discuss anime recommendations  
-- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
