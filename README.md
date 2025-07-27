@@ -131,9 +131,6 @@ public class LearningJourney {
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
-- 🎮 Talk about games (or game together!)
-- 🍜 Discuss anime recommendations  
-- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
