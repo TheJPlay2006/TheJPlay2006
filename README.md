@@ -137,28 +137,28 @@ public class LearningJourney {
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
 <table>
-<tr>
-<td align="center" width="50%">
-<h4>🖥️ Steam Activity</h4>
-<a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&hide_border=true&show_icons=true" alt="Steam Status" width="100%"/>
-</a>
-</td>
-<td align="center" width="50%">
-<h4>💬 Discord Status</h4>
-<a href="https://discord.com/users/724431024758718485">
-<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&borderRadius=10px&hideDiscrim=true&hideTimestamp=false&idleMessage=Just%20vibing%20🎵" alt="Discord Status" width="100%"/>
-</a>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎮 Steam Profile</h4>
+      <a href="https://steamcommunity.com/profiles/76561199204811122">
+        <img src="https://github-readme-steam-card.vercel.app/api/76561199204811122?theme=dark" alt="Steam Profile Card" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h4>💬 Discord Status</h4>
+      <a href="https://discord.com/users/724431024758718485">
+        <img src="https://lanyard-profile-readme.vercel.app/api/724431024758718485?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px" alt="Discord Status" width="100%"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
-### 🎯 Gaming Stats & Activity
+### 🎯 Gaming Stats
 
 <div align="center">
-<a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api/card?profileName=76561199204811122&theme=dark&hide_border=true&show_icons=true&hide_title=false" alt="Steam Stats Card" width="450"/>
-</a>
+  <a href="https://steamcommunity.com/profiles/76561199204811122">
+    <img src="https://github-readme-steam-stats.vercel.app/api/76561199204811122?theme=dark" alt="Steam Stats" width="450"/>
+  </a>
 </div>
 
 ### 🚀 Quick Connect
