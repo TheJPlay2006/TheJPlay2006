@@ -149,17 +149,14 @@ public class LearningJourney {
 ### 📊 Steam Gaming Stats
 <div align="center">
 
-<!-- Primera opción: API diferente -->
-<img src="https://github.com/Nicconike/Steam-Stats/blob/output/overview.svg" alt="Steam Gaming Stats"/>
+<!-- Steam Activity Chart alternativo -->
+<img src="https://steam-game-playtime-stats.vercel.app/api/76561199204811122?theme=dark&chart_type=activity" alt="Steam Activity Chart"/>
 
-<!-- Si no funciona, alternativa con badges informativos -->
-<a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://img.shields.io/badge/🎮_Steam_Profile-Visit_My_Stats-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Stats"/>
-</a>
-<br>
-<img src="https://img.shields.io/badge/🏆_Steam_Level-Check_Profile-blue?style=flat-square&logo=steam" alt="Steam Level"/>
-<img src="https://img.shields.io/badge/🎯_Games_Library-Growing-green?style=flat-square&logo=steam" alt="Games Library"/>
-<img src="https://img.shields.io/badge/⚡_Status-Gaming_Ready-red?style=flat-square&logo=steam" alt="Gaming Status"/>
+<!-- Backup: Steam Playtime Graph -->
+<img src="https://github-readme-steam-playtime.vercel.app/api/76561199204811122?theme=dark&show_recent=true" alt="Steam Playtime Graph"/>
+
+<!-- Tercera opción: Steam Stats con gráficas -->
+<img src="https://steam-readme-stats.vercel.app/api/76561199204811122?theme=dark&show_games=5&show_stats=playtime" alt="Steam Gaming Chart"/>
 
 </div>
 
