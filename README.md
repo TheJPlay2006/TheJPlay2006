@@ -131,6 +131,9 @@ public class LearningJourney {
 **Email me if you want to:**
 - 🤝 Collaborate on a project
 - 💡 Share coding tips
+- 🎮 Talk about games (or game together!)
+- 🍜 Discuss anime recommendations  
+- 🎵 Exchange music playlists
 - ☕ Just chat about tech!
 
 </div>
@@ -150,39 +153,35 @@ public class LearningJourney {
 ## 🎮 Gaming Zone
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlPystfePnAI3G8/giphy.gif" width="400" height="200"/>
+
+### ⚡ Steam Profile
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+
+**🎯 Currently Playing:** *Check my Steam for live updates!*
+
 </div>
 
-### 🎮 Steam Profile
-<div align="center">
-  
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-  
-  **🎯 Currently Playing:** *Check my Steam for live updates!*
-  
-  **🏆 Gaming Stats:**
-  - 🎮 **Platform:** PC Master Race
-  - 🕹️ **Favorite Genres:** Action, Adventure, RPG
-  - 🏅 **Steam Level:** *Visit my profile to see!*
-  - 🎯 **Current Goal:** Completing my game backlog
-  
-  ---
-  
-  **💡 Fun Gaming Facts:**
-  - 🌍 I love exploring open-world games
-  - 🎯 Achievement hunter in progress
-  - 🎮 Always up for co-op games with friends
-  - 🕒 Gaming sessions: Usually evenings & weekends
-  
+<div align="left">
+
+**🏆 Gaming Stats:**
+- 🖥️ **Platform:** PC Master Race
+- 🎮 **Genres:** Action, Adventure, RPG  
+- 🎯 **Mission:** Completing my game backlog
+
+**🌟 Gaming Style:**
+- 🌍 Open-world explorer
+- 🏅 Achievement hunter
+- 🤝 Co-op enthusiast
+- 🕒 Evening & weekend gamer
+
 </div>
 
-### 🎮 Want to Game Together?
 <div align="center">
-  
-  **Add me on Steam and let's play!** 🤝
-  
-  ![Gaming](https://img.shields.io/badge/Status-Online%20for%20Gaming-brightgreen?style=for-the-badge&logo=steam)
-  
+
+**🎮 Want to Game Together? Add me and let's play!** 🤝
+
+![Gaming Status](https://img.shields.io/badge/Status-Ready%20to%20Game-brightgreen?style=for-the-badge&logo=steam)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
