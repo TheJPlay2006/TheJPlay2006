@@ -132,160 +132,41 @@ public class LearningJourney {
 <div align="center">
 
 ### ⚡ Live Gaming Status
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
+<h4>🖥️ Steam Activity</h4>
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&hide_border=true&show_icons=true" alt="Steam Status" width="100%"/>
 </a>
-<br>
-<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&hide_border=true" alt="Steam Status"/>
 </td>
-<td align="center">
+<td align="center" width="50%">
+<h4>💬 Discord Status</h4>
 <a href="https://discord.com/users/724431024758718485">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&borderRadius=10px&hideDiscrim=true&hideTimestamp=false&idleMessage=Just%20vibing%20🎵" alt="Discord Status" width="100%"/>
 </a>
-<br>
-<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=1a1b27&borderRadius=10px&hideDiscrim=true&idleMessage=Just%20chillin'..." alt="Discord Status"/>
 </td>
 </tr>
 </table>
 
-### 🎯 Current Gaming Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheJPlay2006&theme=react-dark&hide_border=true&area=true&custom_title=Gaming%20Activity%20This%20Week" width="100%"/>
-</div>
-
-</div>
-
----
-
-<div align="left">
-
-### 🏆 Elite Gaming Profile
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-**🎮 Gaming Infrastructure:**
-- 🖥️ **Platform:** PC Master Race Elite
-- ⚡ **Status:** <img src="https://img.shields.io/badge/🟢%20Online-Ready%20to%20Game-00ff00?style=flat-square"/>
-- 🎯 **Current Mission:** Completing Cyberpunk 2077
-- 🏅 **Achievement Rate:** 94% completion average
-- 🎪 **Favorite Genre:** Open World RPGs
-
-</td>
-<td width="50%">
-
-**💬 Discord Elite Status:**
-- 🌟 **Server Roles:** Gaming Coordinator
-- 🎵 **Music Bot:** Always sharing bangers
-- 🤝 **Voice Chat:** Available evenings (GMT-6)
-- 🍜 **Anime Discussions:** Weekly watch parties
-- 💻 **Code Reviews:** Help with Java/SQL anytime
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎮 Interactive Gaming Hub
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯-Currently%20Playing-ff6b6b?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Cyberpunk%202077-In%20Progress-yellow?style=flat-square&logo=steam"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🏆-Next%20Target-4ecdc4?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Elden%20Ring-Queued-blue?style=flat-square&logo=steam"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤝-Co%20op%20Ready-45b7d1?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Invite%20Me-Always%20Ready-green?style=flat-square&logo=discord"/>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎵-Vibe%20Status-f9ca24?style=for-the-badge"/>
-<br>
-<img src="https://img.shields.io/badge/Lo%20fi%20Hip%20Hop-Playing-purple?style=flat-square&logo=spotify"/>
-</td>
-</tr>
-</table>
-
-### 🌟 Quick Connect Actions
-
-<div align="center">
-
-[![Join Discord Server](https://img.shields.io/badge/🎮%20Join%20Gaming%20Session-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
-[![Steam Profile](https://img.shields.io/badge/📊%20View%20Steam%20Stats-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Gaming Schedule](https://img.shields.io/badge/📅%20Gaming%20Schedule-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/your-gaming-schedule)
-
-</div>
-
-### ⚡ Real-Time Gaming Stats
+### 🎯 Gaming Stats & Activity
 
 <div align="center">
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api/card?profileName=76561199204811122&theme=dark&hide_border=true" alt="Steam Stats Card" width="400"/>
+<img src="https://steam-stat.vercel.app/api/card?profileName=76561199204811122&theme=dark&hide_border=true&show_icons=true&hide_title=false" alt="Steam Stats Card" width="450"/>
 </a>
 </div>
 
-</div>
+### 🚀 Quick Connect
 
----
+[![Add me on Steam](https://img.shields.io/badge/🎮%20Add%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Join Discord](https://img.shields.io/badge/💬%20Discord%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
-<div align="center">
-
-### 🎯 Gaming Philosophy
-
-> *"Every pixel matters, every frame counts, every friend makes the journey epic."*
-
-**🌟 What Makes Gaming Elite:**
-- 🎮 **Skill Development:** Always improving mechanics
-- 🤝 **Community First:** Gaming is better with friends  
-- 🏆 **Achievement Focused:** 100% completion mindset
-- 🎨 **Aesthetic Appreciation:** Games are interactive art
-- 💬 **Story Driven:** Narrative matters as much as gameplay
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Want to Level Up Together?
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎮-Add%20on%20Steam-000000?style=for-the-badge&logo=steam"/>
-<br>
-<sub>For gaming sessions & achievements</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/💬-Join%20Discord-5865F2?style=for-the-badge&logo=discord"/>
-<br>
-<sub>Voice chat, music, and anime talks</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🤝-Collaborate-FF6B6B?style=for-the-badge&logo=github"/>
-<br>
-<sub>Code together, game together</sub>
-</td>
-</tr>
-</table>
-
-![Gaming Invite](https://img.shields.io/badge/Status-🟢%20Ready%20for%20Epic%20Adventures-brightgreen?style=for-the-badge&logo=gamepad&logoColor=white)
+**🎮 Ready for gaming sessions • 💬 Always up for a chat • 🎵 Music & anime talks**
 
 </div>
 
