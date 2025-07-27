@@ -126,6 +126,14 @@ public class LearningJourney {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+
+### 🎮 Gaming Stats
+<div align="center">
+  
+  ![Steam Stats](https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark)
+  
+</div>
 
 ### 💬 Fun Ways to Reach Me:
 **Email me if you want to:**
