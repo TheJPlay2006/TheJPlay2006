@@ -148,7 +148,19 @@ public class LearningJourney {
 
 ### 📊 Steam Gaming Stats
 <div align="center">
-<img src="https://steam-stats-web.vercel.app/api/76561199204811122?theme=dark" alt="Steam Gaming Stats"/>
+
+<!-- Primera opción: API diferente -->
+<img src="https://github.com/Nicconike/Steam-Stats/blob/output/overview.svg" alt="Steam Gaming Stats"/>
+
+<!-- Si no funciona, alternativa con badges informativos -->
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://img.shields.io/badge/🎮_Steam_Profile-Visit_My_Stats-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Stats"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/🏆_Steam_Level-Check_Profile-blue?style=flat-square&logo=steam" alt="Steam Level"/>
+<img src="https://img.shields.io/badge/🎯_Games_Library-Growing-green?style=flat-square&logo=steam" alt="Games Library"/>
+<img src="https://img.shields.io/badge/⚡_Status-Gaming_Ready-red?style=flat-square&logo=steam" alt="Gaming Status"/>
+
 </div>
 
 </div>
