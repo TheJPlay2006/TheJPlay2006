@@ -131,33 +131,24 @@ public class LearningJourney {
 
 ### 🎮 Steam Profile
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=400&hide_border=true" alt="Steam Profile"/>
+<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&card_width=400" alt="Steam Profile"/>
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### 💬 Discord Status
+### 💬 Discord Presence
 <a href="https://discord.com/users/724431024758718485">
-<img src="https://discord-readme-badge.vercel.app/api?id=724431024758718485&theme=dark" alt="Discord Status"/>
+<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20or%20gaming..." alt="Discord Presence"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-### 📊 Steam Gaming Statistics
-<img src="https://steam-stats-readme.vercel.app/api/card?username=76561199204811122&theme=dark&hide_border=true" alt="Steam Stats" width="500"/>
-
-### 🏆 Recently Played Games
-<img src="https://github-readme-steam-recent.vercel.app/api?id=76561199204811122&theme=dark&width=500" alt="Recently Played"/>
-
-### 🎯 Gaming Achievement Board
+### 📊 Steam Gaming Stats
 <div align="center">
-<img src="https://img.shields.io/badge/Steam_Level-?-blue?style=for-the-badge&logo=steam" alt="Steam Level"/>
-<img src="https://img.shields.io/badge/Games_Owned-?-green?style=for-the-badge&logo=steam" alt="Games Owned"/>
-<img src="https://img.shields.io/badge/Perfect_Games-?-gold?style=for-the-badge&logo=steam" alt="Perfect Games"/>
-<img src="https://img.shields.io/badge/Total_Playtime-?_hrs-red?style=for-the-badge&logo=steam" alt="Playtime"/>
+<img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=500&hide_border=true" alt="Steam Gaming Stats"/>
 </div>
 
 ### 🔗 Connect & Game Together
