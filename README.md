@@ -131,10 +131,8 @@ public class LearningJourney {
 
 ### 🎮 Steam Profile
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"/>
+<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&card_width=400" alt="Steam Profile"/>
 </a>
-
-**Steam ID:** 76561199204811122
 
 </td>
 <td align="center" width="50%">
@@ -147,13 +145,6 @@ public class LearningJourney {
 </td>
 </tr>
 </table>
-
-### 🎯 Gaming Interests
-*Connect with me on Steam to see what I'm playing!*
-
-- 🎮 **Favorite Genres:** Action, RPG, Strategy, Indie
-- 🏆 **Gaming Style:** Story-driven adventures & competitive multiplayer
-- 🌟 **Always up for:** Co-op games and new gaming experiences
 
 </div>
 
