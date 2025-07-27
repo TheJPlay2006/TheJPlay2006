@@ -151,66 +151,6 @@ public class LearningJourney {
 <img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=500&hide_border=true" alt="Steam Gaming Stats"/>
 </div>
 
-</div>=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🎮 Steam Profile
-<a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark" alt="Steam Profile Card" width="100%"/>
-</a>
-
-</td>
-<td align="center" width="50%">
-
-### 💬 Discord Presence  
-<a href="https://discord.com/users/724431024758718485">
-<img src="https://lanyard-profile-readme.vercel.app/api/724431024758718485?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20or%20gaming..." alt="Discord Presence" width="100%"/>
-</a>
-
-</td>
-</tr>
-</table>
-</div>
-
-### 📊 Steam Gaming Statistics
-
-<div align="center">
-
-<!-- Steam Stats Widget -->
-<img src="https://github-readme-steam.vercel.app/api/76561199204811122?theme=dark&card_width=356" alt="Steam Stats"/>
-
-<!-- Alternative Steam Stats -->
-<img src="https://steam-stats-web.vercel.app/api/76561199204811122" alt="Steam Gaming Stats" width="500px"/>
-
-</div>
-
-### 🏆 Recent Gaming Activity
-
-<div align="center">
-
-<!-- Steam Recently Played -->
-<img src="https://steam-recently-played-readme.vercel.app/api?id=76561199204811122&theme=dark" alt="Recently Played Games" width="500px"/>
-
-</div>
-
-### 🔗 Connect & Game Together
-
-<div align="center">
-
-[![Add me on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Message on Discord](https://img.shields.io/badge/-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
-
-**🎮 Ready for:** Co-op sessions • Competitive matches • New game recommendations  
-**💬 Let's talk:** Gaming • Anime • Music • Programming • Tech trends  
-**⚡ Always online:** Looking for gaming buddies and coding partners!
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
