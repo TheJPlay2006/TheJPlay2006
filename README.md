@@ -125,39 +125,36 @@ public class LearningJourney {
 
 <div align="center">
 
-### ⚡ Live Status
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### 🔗 Connect With Me for Gaming & Chat
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎮 Steam Profile</h3>
-      <a href="https://steamcommunity.com/profiles/76561199204811122">
-        <img src="https://steam-card.vercel.app/api/76561199204811122?theme=dark" alt="Steam Profile" width="100%">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>💬 Discord Presence</h3>
-      <a href="https://discord.com/users/724431024758718485">
-        <img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&borderRadius=10px&hideDiscrim=true" alt="Discord Status" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Add on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Chat on Discord](https://img.shields.io/badge/-TheJPlay2006%23Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
-### 📊 Gaming Statistics
-<div align="center">
-  <a href="https://steamcommunity.com/profiles/76561199204811122">
-    <img src="https://github-readme-steam-stats.vercel.app/api/76561199204811122?theme=dark" alt="Steam Stats" width="75%">
-  </a>
-</div>
+### 🎮 Gaming Interests
+```
+🕹️ Current Games I'm Playing:
+   • Action/Adventure games
+   • Strategy games  
+   • Indie titles
+   • Multiplayer co-op games
 
-### 🔗 Connect With Me
-[![Add on Steam](https://img.shields.io/badge/-Add%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Chat on Discord](https://img.shields.io/badge/-Chat%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+🎯 Gaming Goals:
+   • Complete my Steam backlog
+   • Try new game genres
+   • Play with friends and community
+   • Stream gameplay (future goal)
+```
 
-🎮 Ready for gaming sessions • 💬 Always up for a chat • 🎵 Music & anime talks
+### 🌟 Let's Game Together!
+**🎮 Always up for:** Co-op sessions • New game recommendations • Gaming discussions  
+**💬 Chat about:** Latest games • Anime • Music • Programming • Tech stuff  
+**⚡ Status:** Currently active and looking for gaming buddies!
+
+### 📱 Other Interests
+- 🍜 **Anime:** Action, Romance, Shonen (always looking for recommendations!)
+- 🎵 **Music:** All genres (love discovering new artists)
+- 💻 **Tech:** Programming tutorials, new frameworks, dev tools
+- 📚 **Learning:** Always reading about new technologies
 
 </div>
 
