@@ -157,25 +157,6 @@ public class LearningJourney {
 ### ⚡ Steam Profile
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
 
-**🎯 Currently Playing:** *Check my Steam for live updates!*
-
-</div>
-
-<div align="left">
-
-**🏆 Gaming Stats:**
-- 🖥️ **Platform:** PC Master Race
-- 🎮 **Genres:** Action, Adventure, RPG  
-- 🎯 **Mission:** Completing my game backlog
-
-**🌟 Gaming Style:**
-- 🌍 Open-world explorer
-- 🏅 Achievement hunter
-- 🤝 Co-op enthusiast
-- 🕒 Evening & weekend gamer
-
-</div>
-
 <div align="center">
 
 **🎮 Want to Game Together? Add me and let's play!** 🤝
