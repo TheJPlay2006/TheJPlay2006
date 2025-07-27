@@ -125,59 +125,42 @@ public class LearningJourney {
 
 <div align="center">
 
-### ⚡ Live Gaming Status
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
-
-</div>
-
-<div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
 ### 🎮 Steam Profile
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://img.shields.io/badge/Steam-TheJPlay2006-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"/>
-</a>
-<br>
-<a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://img.shields.io/badge/🎮_Visit_My-Steam_Profile-000000?style=flat-square&logo=steam" alt="Visit Steam"/>
+<img src="https://github-readme-steam.vercel.app/api?id=76561199204811122&theme=dark&card_width=400&hide_border=true" alt="Steam Profile"/>
 </a>
 
 </td>
 <td align="center" width="50%">
 
-### 💬 Discord Connect
+### 💬 Discord Status
 <a href="https://discord.com/users/724431024758718485">
-<img src="https://img.shields.io/badge/Discord-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<br>
-<a href="https://discord.com/users/724431024758718485">
-<img src="https://img.shields.io/badge/💬_Send_Me_a-Discord_Message-5865F2?style=flat-square&logo=discord" alt="Discord Message"/>
+<img src="https://discord-readme-badge.vercel.app/api?id=724431024758718485&theme=dark" alt="Discord Status"/>
 </a>
 
 </td>
 </tr>
 </table>
-</div>
 
-### 📊 Discord Presence & Steam Stats
+### 📊 Steam Gaming Statistics
+<img src="https://steam-stats-readme.vercel.app/api/card?username=76561199204811122&theme=dark&hide_border=true" alt="Steam Stats" width="500"/>
 
+### 🏆 Recently Played Games
+<img src="https://github-readme-steam-recent.vercel.app/api?id=76561199204811122&theme=dark&width=500" alt="Recently Played"/>
+
+### 🎯 Gaming Achievement Board
 <div align="center">
-
-<!-- Discord Presence con API que funciona -->
-<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding..." alt="Discord Status"/>
-
-<!-- Steam Stats con API alternativa -->
-<img src="https://github-readme-steam.vercel.app/api/76561199204811122?theme=dark" alt="Steam Stats"/>
-
+<img src="https://img.shields.io/badge/Steam_Level-?-blue?style=for-the-badge&logo=steam" alt="Steam Level"/>
+<img src="https://img.shields.io/badge/Games_Owned-?-green?style=for-the-badge&logo=steam" alt="Games Owned"/>
+<img src="https://img.shields.io/badge/Perfect_Games-?-gold?style=for-the-badge&logo=steam" alt="Perfect Games"/>
+<img src="https://img.shields.io/badge/Total_Playtime-?_hrs-red?style=for-the-badge&logo=steam" alt="Playtime"/>
 </div>
 
 ### 🔗 Connect & Game Together
-
-<div align="center">
-
 [![Add me on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
 [![Message on Discord](https://img.shields.io/badge/-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
