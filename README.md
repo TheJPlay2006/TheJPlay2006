@@ -154,7 +154,7 @@ public class LearningJourney {
 
 <div align="center">
 
-[![Send Email](https://img.shields.io/badge/📧%20Send%20Email-jh599350@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
+[![Send Email](https://img.shields.io/badge/📧%20Send%20Email-jh599350@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jh599350@gmail.com&su=Contacto%20desde%20tu%20perfil%20de%20GitHub&body=Hola%20Jairo%2C%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustar%C3%ADa%20ponerme%20en%20contacto%20contigo%20para%20hablar%20sobre%20tus%20proyectos.)
 
 ### 💬 Fun Ways to Reach Me:
 
