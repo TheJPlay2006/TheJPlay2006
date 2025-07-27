@@ -125,36 +125,66 @@ public class LearningJourney {
 
 <div align="center">
 
-### 🔗 Connect With Me for Gaming & Chat
+### ⚡ Live Gaming Status
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
-[![Add on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
-[![Chat on Discord](https://img.shields.io/badge/-TheJPlay2006%23Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+</div>
 
-### 🎮 Gaming Interests
-```
-🕹️ Current Games I'm Playing:
-   • Action/Adventure games
-   • Strategy games  
-   • Indie titles
-   • Multiplayer co-op games
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-🎯 Gaming Goals:
-   • Complete my Steam backlog
-   • Try new game genres
-   • Play with friends and community
-   • Stream gameplay (future goal)
-```
+### 🎮 Steam Profile
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark" alt="Steam Profile Card" width="100%"/>
+</a>
 
-### 🌟 Let's Game Together!
-**🎮 Always up for:** Co-op sessions • New game recommendations • Gaming discussions  
-**💬 Chat about:** Latest games • Anime • Music • Programming • Tech stuff  
-**⚡ Status:** Currently active and looking for gaming buddies!
+</td>
+<td align="center" width="50%">
 
-### 📱 Other Interests
-- 🍜 **Anime:** Action, Romance, Shonen (always looking for recommendations!)
-- 🎵 **Music:** All genres (love discovering new artists)
-- 💻 **Tech:** Programming tutorials, new frameworks, dev tools
-- 📚 **Learning:** Always reading about new technologies
+### 💬 Discord Presence  
+<a href="https://discord.com/users/724431024758718485">
+<img src="https://lanyard-profile-readme.vercel.app/api/724431024758718485?theme=dark&bg=0d1117&animated=false&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20coding%20or%20gaming..." alt="Discord Presence" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+### 📊 Steam Gaming Statistics
+
+<div align="center">
+
+<!-- Steam Stats Widget -->
+<img src="https://github-readme-steam.vercel.app/api/76561199204811122?theme=dark&card_width=356" alt="Steam Stats"/>
+
+<!-- Alternative Steam Stats -->
+<img src="https://steam-stats-web.vercel.app/api/76561199204811122" alt="Steam Gaming Stats" width="500px"/>
+
+</div>
+
+### 🏆 Recent Gaming Activity
+
+<div align="center">
+
+<!-- Steam Recently Played -->
+<img src="https://steam-recently-played-readme.vercel.app/api?id=76561199204811122&theme=dark" alt="Recently Played Games" width="500px"/>
+
+</div>
+
+### 🔗 Connect & Game Together
+
+<div align="center">
+
+[![Add me on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Message on Discord](https://img.shields.io/badge/-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+
+**🎮 Ready for:** Co-op sessions • Competitive matches • New game recommendations  
+**💬 Let's talk:** Gaming • Anime • Music • Programming • Tech trends  
+**⚡ Always online:** Looking for gaming buddies and coding partners!
 
 </div>
 
