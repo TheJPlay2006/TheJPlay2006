@@ -138,7 +138,7 @@ public class LearningJourney {
 **🎯 Currently Playing:** *Check my Steam for live updates!*  
 **💬 Discord Status:** *Available for gaming & chatting!*
 
-<div align="left">
+<div align="center">
 
 ### 🎮 Want to Connect?
 **Add me on Steam or Discord - Let's game together!** 🤝
