@@ -127,20 +127,24 @@ public class LearningJourney {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎮 Gaming Zone
+## 🎮 Gaming & Social Zone
 
 <div align="center">
 
-### ⚡ Steam Profile
+### ⚡ Gaming Connections
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
 
-**🎯 Currently Playing:** *Check my Steam for live updates!*
+**🎯 Currently Playing:** *Check my Steam for live updates!*  
+**💬 Discord Status:** *Available for gaming & chatting!*
 
-<div align="center">
+<div align="left">
 
-**🎮 Want to Game Together? Add me and let's play!** 🤝
+### 🎮 Want to Connect?
+**Add me on Steam or Discord - Let's game together!** 🤝
 
 ![Gaming Status](https://img.shields.io/badge/Status-Ready%20to%20Game-brightgreen?style=for-the-badge&logo=steam)
+![Discord Status](https://lanyard.cnrad.dev/api/724431024758718485?bg=a&borderRadius=5px)
 
 </div>
 
