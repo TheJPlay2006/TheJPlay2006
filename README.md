@@ -138,6 +138,103 @@ public class LearningJourney {
 
 ### 🎮 Steam Profile
 <a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://img.shields.io/badge/Steam-TheJPlay2006-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile"/>
+</a>
+<br>
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://img.shields.io/badge/🎮_Visit_My-Steam_Profile-000000?style=flat-square&logo=steam" alt="Visit Steam"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 💬 Discord Connect
+<a href="https://discord.com/users/724431024758718485">
+<img src="https://img.shields.io/badge/Discord-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<br>
+<a href="https://discord.com/users/724431024758718485">
+<img src="https://img.shields.io/badge/💬_Send_Me_a-Discord_Message-5865F2?style=flat-square&logo=discord" alt="Discord Message"/>
+</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+### 📊 Steam Gaming Statistics
+
+<div align="center">
+
+<!-- Steam ID Badge -->
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://img.shields.io/badge/Steam_ID-76561199204811122-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam ID"/>
+</a>
+
+<!-- Manual Gaming Stats Display -->
+<img src="https://img.shields.io/badge/🎮_Games_Library-Growing-brightgreen?style=for-the-badge" alt="Games Library"/>
+<img src="https://img.shields.io/badge/🏆_Achievement_Hunter-Active-gold?style=for-the-badge" alt="Achievements"/>
+<img src="https://img.shields.io/badge/👥_Looking_for-Gaming_Buddies-blue?style=for-the-badge" alt="Looking for Friends"/>
+
+### 🎯 Gaming Preferences
+```
+🕹️ Current Favorites:
+   ▶ Action/Adventure Games
+   ▶ Strategy & Simulation  
+   ▶ Co-op Multiplayer
+   ▶ Indie Discoveries
+
+🎮 Gaming Goals 2025:
+   ▶ Complete Steam backlog
+   ▶ Try new genres
+   ▶ Make gaming friends
+   ▶ Achievement hunting
+```
+
+</div>
+
+### 🎮 Gaming Profile Summary
+
+<div align="center">
+
+```
+🎯 Steam ID: TheJPlay2006
+🏆 Profile Level: Check my Steam profile for current level
+🎮 Favorite Genres: Action, Adventure, Strategy, Indie
+⚡ Status: Always ready for new gaming sessions!
+💬 Discord: Open for gaming chats and collaborations
+```
+
+<!-- Backup Steam widget -->
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+</a>
+
+</div>
+
+### 🔗 Connect & Game Together
+
+<div align="center">
+
+[![Add me on Steam](https://img.shields.io/badge/-Add%20me%20on%20Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Message on Discord](https://img.shields.io/badge/-TheJPlay2006-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+
+**🎮 Ready for:** Co-op sessions • Competitive matches • New game recommendations  
+**💬 Let's talk:** Gaming • Anime • Music • Programming • Tech trends  
+**⚡ Always online:** Looking for gaming buddies and coding partners!
+
+</div>=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199204811122)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724431024758718485)
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 Steam Profile
+<a href="https://steamcommunity.com/profiles/76561199204811122">
 <img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark" alt="Steam Profile Card" width="100%"/>
 </a>
 
