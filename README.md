@@ -135,16 +135,18 @@ public class LearningJourney {
 <table>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-<br>
 <a href="https://steamcommunity.com/profiles/76561199204811122">
-<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark" alt="Steam Status"/>
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
 </a>
+<br>
+<img src="https://steam-stat.vercel.app/api?profileName=76561199204811122&theme=dark&hide_border=true" alt="Steam Status"/>
 </td>
 <td align="center">
+<a href="https://discord.com/users/724431024758718485">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 <br>
-<img src="https://lanyard.cnrd.dev/api/724431024758718485?bg=1a1b27&borderRadius=10px&hideDiscrim=true&idleMessage=Just%20chillin'..." alt="Discord Status"/>
+<img src="https://lanyard.cnrd.dev/api/724431024758718485?theme=dark&bg=1a1b27&borderRadius=10px&hideDiscrim=true&idleMessage=Just%20chillin'..." alt="Discord Status"/>
 </td>
 </tr>
 </table>
@@ -233,7 +235,9 @@ public class LearningJourney {
 ### ⚡ Real-Time Gaming Stats
 
 <div align="center">
-<img src="https://steam-stat.vercel.app/api/card?profileName=76561199204811122&theme=dark&image=https://i.imgur.com/your-custom-bg.png" alt="Steam Stats Card"/>
+<a href="https://steamcommunity.com/profiles/76561199204811122">
+<img src="https://steam-stat.vercel.app/api/card?profileName=76561199204811122&theme=dark&hide_border=true" alt="Steam Stats Card" width="400"/>
+</a>
 </div>
 
 </div>
