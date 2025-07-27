@@ -149,14 +149,14 @@ public class LearningJourney {
 ### 📊 Steam Gaming Stats
 <div align="center">
 
-<!-- Steam Activity Chart alternativo -->
-<img src="https://steam-game-playtime-stats.vercel.app/api/76561199204811122?theme=dark&chart_type=activity" alt="Steam Activity Chart"/>
+<!-- Steam Stats con tu API Key -->
+<img src="https://steam-stat-api.vercel.app/api?steamid=76561199204811122&key=E621A031C194C1E11807AB616FC75266&theme=dark&chart=playtime" alt="Steam Gaming Stats"/>
 
-<!-- Backup: Steam Playtime Graph -->
-<img src="https://github-readme-steam-playtime.vercel.app/api/76561199204811122?theme=dark&show_recent=true" alt="Steam Playtime Graph"/>
+<!-- Alternativa con gráficas diferentes -->
+<img src="https://github-readme-steam-stats.herokuapp.com/api/76561199204811122?apikey=E621A031C194C1E11807AB616FC75266&theme=dark&show_games=5" alt="Steam Playtime Chart"/>
 
-<!-- Tercera opción: Steam Stats con gráficas -->
-<img src="https://steam-readme-stats.vercel.app/api/76561199204811122?theme=dark&show_games=5&show_stats=playtime" alt="Steam Gaming Chart"/>
+<!-- Steam Activity Heatmap -->
+<img src="https://steam-activity-chart.vercel.app/api/76561199204811122?apikey=E621A031C194C1E11807AB616FC75266&theme=dark" alt="Steam Activity Heatmap"/>
 
 </div>
 
