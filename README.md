@@ -311,18 +311,6 @@ I am also interested in technical support, systems, tools, and infrastructure be
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheJPlay2006&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
