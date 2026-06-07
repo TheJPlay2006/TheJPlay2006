@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
 
 # 👋 Hi, I'm Jairo Herrera Romero
 
@@ -10,15 +10,15 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/jairoshr/">
-  <img width="52" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  <img width="54" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:jh599350@gmail.com">
-  <img width="52" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  <img width="54" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TheJPlay2006">
-  <img width="52" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+  <img width="54" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
 </a>
 
 <br><br>
@@ -27,7 +27,7 @@
 &nbsp;•&nbsp;
 <a href="mailto:jh599350@gmail.com">jh599350@gmail.com</a>
 &nbsp;•&nbsp;
-<a href="https://github.com/TheJPlay2006">GitHub</a>
+<a href="https://github.com/TheJPlay2006">TheJPlay2006</a>
 
 </div>
 
@@ -48,7 +48,7 @@
 <a href="#tech-stack">Tech Stack</a> •
 <a href="#focus-areas">Focus Areas</a> •
 <a href="#currently-growing">Currently Growing</a> •
-<a href="#github-analytics">GitHub Analytics</a> •
+<a href="#github-activity">GitHub Activity</a> •
 <a href="#contact">Contact</a>
 
 </div>
@@ -99,7 +99,7 @@ I describe myself as a **constant and self-taught student**, someone who keeps l
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&width=780&lines=Consistency+%2B+Practice+%3D+Growth;Learning+every+day%2C+one+step+at+a+time;Building+my+path+in+technology" alt="Journey Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=9D4EDD&center=true&vCenter=true&width=800&lines=Consistency+%2B+Practice+%3D+Growth;Learning+every+day%2C+one+step+at+a+time;Building+my+path+in+technology;Improving+through+real+projects+and+experience" alt="Journey Typing SVG" />
 
 </div>
 
@@ -289,9 +289,13 @@ Web development, frontend development, artificial intelligence, databases, suppo
 
 ---
 
-<h2 id="github-analytics">📊 GitHub Analytics</h2>
+<h2 id="github-activity">📊 GitHub Activity</h2>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Tracking+my+growth+through+practice;Every+commit+is+part+of+the+journey;Building+my+developer+profile+step+by+step" alt="GitHub Activity Typing SVG" />
+
+<br><br>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=TheJPlay2006&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=9D4EDD&currStreakLabel=36BCF7" alt="GitHub Streak" />
 
@@ -323,21 +327,15 @@ Web development, frontend development, artificial intelligence, databases, suppo
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🎵 Personal Side
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Music+helps+me+focus+while+coding;Studying%2C+coding%2C+learning+and+improving;Tech+%2B+music+%3D+better+ideas" alt="Music Typing SVG" />
+
+<br><br>
+
+<img width="280" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Music GIF" />
 
 <br><br>
 
@@ -403,6 +401,7 @@ Music is part of my daily routine while studying, coding, and learning new thing
 
 <img src="https://komarev.com/ghpvc/?username=TheJPlay2006&style=flat&color=36BCF7" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/TheJPlay2006?style=flat&logo=github&color=9D4EDD&labelColor=0D1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/TheJPlay2006?style=flat&logo=github&color=36BCF7&labelColor=0D1117" alt="GitHub Stars" />
 
 </div>
 
@@ -412,6 +411,6 @@ Music is part of my daily routine while studying, coding, and learning new thing
 
 ### ✨ Thanks for visiting my profile!
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="Footer Banner" />
 
 </div>
