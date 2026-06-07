@@ -1,4 +1,3 @@
-````markdown
 # 👋 Hi, I'm Jairo Herrera Romero
 
 <div align="center">
@@ -129,64 +128,3 @@ public class LearningJourney {
         }
     }
 }
-````
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheJPlay2006&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJPlay2006&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJPlay2006&theme=radical&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎮 Personal Side
-
-When I'm not coding, I enjoy:
-
-* 🎮 Playing video games
-* 🍜 Watching anime
-* 🎵 Listening to music
-* 📚 Reading and learning about technology
-* 💡 Exploring new tools and ideas
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo%20Herrera%20Romero-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jairoshr/)
-[![Email](https://img.shields.io/badge/Email-jh599350%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jh599350@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TheJPlay2006-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TheJPlay2006)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TheJPlay2006.TheJPlay2006)
-![GitHub followers](https://img.shields.io/github/followers/TheJPlay2006?logo=GitHub\&style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/TheJPlay2006?logo=github\&style=for-the-badge)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
-```
