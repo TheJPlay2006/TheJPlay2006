@@ -47,42 +47,6 @@ I enjoy learning by building, exploring new tools, improving my logic, and growi
   <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
-<h2 align="center" id="experience">💼 Experience</h2>
-
-<div align="center">
-
-<img width="840" src="assets/experience.svg" alt="Experience: Junior Full-Stack Developer at ForeSight Solutions (Oct 2025 to present) and freelance web designer/developer (Jan 2025 to present)" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="85%" src="assets/divider.svg" alt="" />
-</div>
-
-<h2 align="center" id="featured-projects">📂 Featured Projects</h2>
-
-<div align="center">
-
-<img width="820" src="assets/project-erp.svg" alt="Two Little Monkeys ERP and POS: offline-first business system built with C#, .NET 8, Avalonia UI, ASP.NET Core, SQLite and PostgreSQL" />
-
-<br>
-
-<img width="820" src="assets/project-restaurant.svg" alt="Restaurante Parrillero: responsive informational website" />
-
-<br>
-
-<a href="https://tiendahi.com"><img width="820" src="assets/project-tiendahi.svg" alt="Tienda Hi: featured web project, tiendahi.com" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="85%" src="assets/divider.svg" alt="" />
-</div>
-
 <h2 align="center" id="my-journey">🚀 My Journey</h2>
 
 <div align="center">
@@ -175,24 +139,6 @@ My main personal values are **perseverance, consistency, and continuous improvem
   <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
-<h2 align="center" id="credentials">🏅 Certifications & Education</h2>
-
-<div align="center">
-
-<img width="880" src="assets/certs.svg" alt="Certifications: CCNA (Cisco), GitHub Foundations, AB-900T00 Microsoft 365 and AI Administration, Analysis and Automation with Python" />
-
-<br>
-
-<img width="900" src="assets/profile.svg" alt="Education at UTN, languages (Spanish native, English A2) and strengths" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="85%" src="assets/divider.svg" alt="" />
-</div>
-
 <h2 align="center" id="github-activity">📊 GitHub Activity</h2>
 
 <div align="center">
@@ -235,31 +181,6 @@ My main personal values are **perseverance, consistency, and continuous improvem
 <br><br>
 
 <img src="output/bonsai-growth.gif" width="384" alt="My git-bonsai growing from a seed" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img width="85%" src="assets/divider.svg" alt="" />
-</div>
-
-<h2 align="center" id="personal-side">🎵 Personal Side</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Music+helps+me+focus+while+coding;Studying%2C+coding%2C+learning+and+improving;Tech+%2B+music+%3D+better+ideas" alt="Music Typing SVG" />
-
-<br><br>
-
-<img width="386" src="assets/equalizer.svg" alt="Animated music equalizer" />
-
-<br><br>
-
-### 🎧 Music
-
-Music is part of my daily routine while studying, coding, and learning new things.
-
 
 </div>
 
