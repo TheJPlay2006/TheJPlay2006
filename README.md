@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jairo Herrera Romero
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Information+Technology+Engineering+Student;Passionate+about+Web+Development+and+AI;Frontend+%7C+Databases+%7C+Infrastructure;Always+learning%2C+building+and+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Information+Technology+Engineering+Student;Passionate+about+Web+Development+and+AI;Frontend+%7C+Databases+%7C+Infrastructure" alt="Typing SVG" />
 
 <br>
 
