@@ -128,7 +128,7 @@ def hero_svg(s):
             f'<circle cx="{cx}" cy="{cy}" r="68" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="70 30">'
             f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="14s" repeatCount="indefinite"/></circle>'
             f'<text x="232" y="62" font-family="{SANS}" font-size="27" font-weight="700" fill="url(#g)">IT Engineering Student</text>'
-            f'<text x="232" y="92" font-family="{SANS}" font-size="15" fill="{TEXT}">📍 Costa Rica    🎓 UTN</text>'
+            f'<text x="232" y="92" font-family="{SANS}" font-size="15" fill="{TEXT}">🎓 Universidad Técnica Nacional  ·  📍 Costa Rica</text>'
             f'<circle cx="238" cy="116" r="5" fill="#3FB950"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>'
             f'<animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/></circle>'
             f'<text x="252" y="121" font-family="{SANS}" font-size="15" fill="#3FB950">Open to opportunities</text>'

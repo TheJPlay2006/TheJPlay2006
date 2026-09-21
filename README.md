@@ -21,20 +21,6 @@
 <br>
 
 <div align="center">
-
-<a href="#about-me"><img src="assets/nav-about-me.svg" alt="About Me" /></a>
-<a href="#my-journey"><img src="assets/nav-my-journey.svg" alt="My Journey" /></a>
-<a href="#tech-stack"><img src="assets/nav-tech-stack.svg" alt="Tech Stack" /></a>
-<a href="#focus-areas"><img src="assets/nav-focus-areas.svg" alt="Focus Areas" /></a>
-<a href="#currently-growing"><img src="assets/nav-currently-growing.svg" alt="Currently Growing" /></a>
-<a href="#github-activity"><img src="assets/nav-github-activity.svg" alt="GitHub Activity" /></a>
-<a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" /></a>
-
-</div>
-
-<br>
-
-<div align="center">
   <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
@@ -42,9 +28,7 @@
 
 <div align="center">
 
-I am an **Information Technology Engineering student** at<br><br>
-
-<a href="https://www.utn.ac.cr/"><img src="assets/utn.svg" alt="Universidad Técnica Nacional (UTN), Costa Rica" /></a>
+I am an **Information Technology Engineering student at Universidad Técnica Nacional (UTN), Costa Rica**.
 
 I am passionate about **technology, web development, artificial intelligence, and software creation**.<br>
 I enjoy learning by building, exploring new tools, improving my logic, and growing step by step as a future IT professional.
@@ -146,13 +130,6 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 </details>
 
-<h3 align="center">🧭 Current Status</h3>
-
-<div align="center">
-
-<img width="780" src="assets/status.svg" alt="Current status: web development, frontend, AI, databases, Git, tools, professional growth" />
-
-</div>
 
 <br>
 

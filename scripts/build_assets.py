@@ -180,10 +180,6 @@ def growing():
 
 
 # ---------------------------------------------------------------- pills / buttons
-NAV = [("About Me", "about-me"), ("My Journey", "my-journey"), ("Tech Stack", "tech-stack"), ("Focus Areas", "focus-areas"),
-       ("Currently Growing", "currently-growing"), ("GitHub Activity", "github-activity"), ("Contact", "contact")]
-
-
 def pill_shell(w, h, inner, fill=PANEL, stroke="url(#g)", uid="p"):
     """Rounded pill with animated shimmer sweeping across it."""
     r = h / 2
@@ -193,13 +189,6 @@ def pill_shell(w, h, inner, fill=PANEL, stroke="url(#g)", uid="p"):
             f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r-1}" fill="{fill}" stroke="{stroke}" stroke-width="1.5"/>'
             f'<g clip-path="url(#c)"><rect x="-40" y="0" width="40" height="{h}" fill="url(#sh)"><animate attributeName="x" values="-40;{w+40};{w+40}" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/></rect></g>'
             f'{inner}</svg>')
-
-
-def nav_pills():
-    for label, slug in NAV:
-        w, h = int(len(label) * 6.9 + 30), 32
-        inner = f'<text x="{w/2}" y="{h/2+5}" text-anchor="middle" font-family="{SANS}" font-size="13" font-weight="600" fill="{TEXT}">{esc(label)}</text>'
-        save(f"nav-{slug}.svg", pill_shell(w, h, inner))
 
 
 def icon_path(slug):
@@ -231,36 +220,7 @@ def social_pills():
         save(f"social-{slug}.svg", pill_shell(w, h, inner, fill=col, stroke="#ffffff33"))
 
 
-def utn_pill():
-    text = "Universidad Técnica Nacional (UTN) · Costa Rica"
-    w, h = int(len(text) * 7.6 + 60), 36
-    inner = (f'<text x="20" y="24" font-size="15">🎓</text>'
-             f'<text x="46" y="23.5" font-family="{SANS}" font-size="14" font-weight="600" fill="{TEXT}">{esc(text)}</text>')
-    save("utn.svg", pill_shell(w, h, inner))
-
-
-def status():
-    rows = [("Web Development", "Main interest", CYAN), ("Frontend", "Strong personal preference", PURPLE),
-            ("Artificial Intelligence", "High interest", CYAN), ("Databases", "Improving fundamentals", "#F0883E"),
-            ("Git & GitHub", "Active use", "#3FB950"), ("Tools & IDEs", "Constantly exploring", PURPLE),
-            ("Professional Growth", "Working toward company and freelance opportunities", CYAN)]
-    W, RH = 780, 46
-    H = RH * len(rows) + 16
-    p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}</defs>',
-         f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="16" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>']
-    for i, (label, value, col) in enumerate(rows):
-        y = 8 + i * RH
-        d = i * 0.15
-        pw = int(len(value) * 7.2 + 44)
-        p.append(f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{d:.2f}s" fill="freeze"/>'
-                 + (f'<rect x="14" y="{y+3}" width="{W-28}" height="{RH-6}" rx="10" fill="{BG}" opacity="0.5"/>' if i % 2 == 0 else '')
-                 + f'<text x="34" y="{y+28}" font-family="{SANS}" font-size="15" font-weight="600" fill="{TEXT}">{esc(label)}</text>'
-                 f'<g transform="translate({W-34-pw} {y+9})"><rect width="{pw}" height="28" rx="14" fill="{col}" fill-opacity="0.14" stroke="{col}" stroke-opacity="0.7"/>'
-                 f'<circle cx="16" cy="14" r="4" fill="{col}"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="{d}s" repeatCount="indefinite"/></circle>'
-                 f'<text x="28" y="19" font-family="{SANS}" font-size="13" fill="{TEXT}">{esc(value)}</text></g></g>')
-    p.append('</svg>')
-    save("status.svg", "\n".join(p))
 
 
 if __name__ == "__main__":
-    divider(); terminal(); focus(); growing(); marquee(); nav_pills(); contact_buttons(); social_pills(); utn_pill(); status()
+    divider(); terminal(); focus(); growing(); marquee(); contact_buttons(); social_pills()
