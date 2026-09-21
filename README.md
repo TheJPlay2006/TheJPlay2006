@@ -8,25 +8,17 @@
 
 <br>
 
-<img src="assets/tags.svg" alt="Costa Rica · UTN · Open to opportunities" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/jairoshr/"><img width="54" src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:jh599350@gmail.com"><img width="54" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/TheJPlay2006"><img width="54" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+<img width="820" src="assets/hero.svg" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
 
 <br><br>
 
-<img src="assets/chips.svg" alt="GitHub followers, stars, repos and commits" />
+<a href="https://www.linkedin.com/in/jairoshr/"><img src="assets/social-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:jh599350@gmail.com"><img src="assets/social-gmail.svg" alt="Gmail" /></a>
+<a href="https://github.com/TheJPlay2006"><img src="assets/social-github.svg" alt="GitHub" /></a>
 
 </div>
 
 <br>
-
-<h2 align="center" id="quick-navigation">📌 Quick Navigation</h2>
 
 <div align="center">
 
@@ -50,7 +42,9 @@
 
 <div align="center">
 
-I am an **Information Technology Engineering student at [Universidad Técnica Nacional (UTN), Costa Rica](https://www.utn.ac.cr/)**.
+I am an **Information Technology Engineering student** at<br><br>
+
+<a href="https://www.utn.ac.cr/"><img src="assets/utn.svg" alt="Universidad Técnica Nacional (UTN), Costa Rica" /></a>
 
 I am passionate about **technology, web development, artificial intelligence, and software creation**.<br>
 I enjoy learning by building, exploring new tools, improving my logic, and growing step by step as a future IT professional.
@@ -152,22 +146,13 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 </details>
 
-<details>
-<summary><b>🧭 Current status (click to expand)</b></summary>
+<h3 align="center">🧭 Current Status</h3>
 
-<br>
+<div align="center">
 
-| Area | Status |
-|---|---|
-| Web Development | Main interest |
-| Frontend | Strong personal preference |
-| Artificial Intelligence | High interest |
-| Databases | Improving fundamentals |
-| Git & GitHub | Active use |
-| Tools & IDEs | Constantly exploring |
-| Professional Growth | Working toward company and freelance opportunities |
+<img width="780" src="assets/status.svg" alt="Current status: web development, frontend, AI, databases, Git, tools, professional growth" />
 
-</details>
+</div>
 
 <br>
 
@@ -214,6 +199,8 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br><br>
 
+### 🐱 My Pixel Cat
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet-light.svg">
@@ -221,6 +208,10 @@ My main personal values are **perseverance, consistency, and continuous improvem
 </picture>
 
 <br><br>
+
+### 🌳 My Commit Bonsai
+
+<sub>Grown from my commit history: the more I build, the bigger it gets.</sub>
 
 <img src="output/bonsai-growth.gif" width="384" alt="My git-bonsai growing from a seed" />
 
@@ -248,9 +239,6 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 Music is part of my daily routine while studying, coding, and learning new things.
 
-<br>
-
-<img width="760" src="assets/quotes.svg" alt="Rotating developer quotes" />
 
 </div>
 

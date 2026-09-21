@@ -3,7 +3,7 @@
 
 Usage: GITHUB_TOKEN=... python3 scripts/generate_cards.py [login]
 """
-import datetime, html, json, os, pathlib, sys, urllib.request
+import base64, datetime, html, json, os, pathlib, sys, urllib.request
 
 LOGIN = sys.argv[1] if len(sys.argv) > 1 else "TheJPlay2006"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "assets"
@@ -100,19 +100,39 @@ def langs_svg(s):
     return card(400, 280, "Top Languages", "".join(b))
 
 
-def chips_svg(s):
-    items = [("👥", f"{s['followers']:,}", "followers"), ("⭐", f"{s['stars']:,}", "stars"),
-             ("📦", f"{s['repos']:,}", "repos"), ("📝", f"{s['commits']:,}", "commits")]
-    x, parts = 4, []
-    for i, (ico, val, label) in enumerate(items):
-        w = int(len(val) * 9.5 + len(label) * 7 + 62)
-        parts.append(f'<g transform="translate({x} 4)"><rect width="{w}" height="34" rx="17" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>'
-                     f'<text x="16" y="23" font-size="14">{ico}</text>'
-                     f'<text x="40" y="23" font-family="{SANS}" font-size="14" font-weight="700" fill="{CYAN}">{val}</text>'
-                     f'<text x="{40+len(val)*9.5+6:.0f}" y="23" font-family="{SANS}" font-size="13" fill="{MUTED}">{label}</text></g>')
-        x += w + 12
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{x-8}" height="42" viewBox="0 0 {x-8} 42"><defs>{GRAD}</defs>'
-            f'{"".join(parts)}</svg>')
+def avatar_b64():
+    req = urllib.request.Request(f"https://github.com/{LOGIN}.png?size=220", headers={"User-Agent": "profile-cards"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return base64.b64encode(r.read()).decode(), r.headers.get_content_type()
+
+
+def hero_svg(s):
+    img, mime = avatar_b64()
+    W, H, cx, cy = 820, 200, 112, 100
+    stats = [(f"{s['followers']:,}", "followers"), (f"{s['stars']:,}", "stars"),
+             (f"{s['repos']:,}", "public repos"), (f"{s['commits']:,}", "commits")]
+    st = []
+    for i, (val, label) in enumerate(stats):
+        x = 232 + i * 142
+        if i:
+            st.append(f'<rect x="{x-18}" y="136" width="1" height="38" fill="#30363D"/>')
+        st.append(f'<text x="{x}" y="160" font-family="{SANS}" font-size="26" font-weight="700" fill="{CYAN}">{val}</text>'
+                  f'<text x="{x}" y="178" font-family="{SANS}" font-size="12" fill="{MUTED}">{label}</text>')
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}'
+            f'<radialGradient id="glow"><stop offset="0" stop-color="{CYAN}" stop-opacity="0.28"/><stop offset="1" stop-color="{CYAN}" stop-opacity="0"/></radialGradient>'
+            f'<clipPath id="av"><circle cx="{cx}" cy="{cy}" r="58"/></clipPath></defs>'
+            f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>'
+            f'<circle cx="{cx}" cy="{cy}" r="96" fill="url(#glow)"/>'
+            f'<image href="data:{mime};base64,{img}" x="{cx-58}" y="{cy-58}" width="116" height="116" clip-path="url(#av)"/>'
+            f'<circle cx="{cx}" cy="{cy}" r="58" fill="none" stroke="{BG}" stroke-width="3"/>'
+            f'<circle cx="{cx}" cy="{cy}" r="68" fill="none" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="70 30">'
+            f'<animateTransform attributeName="transform" type="rotate" from="0 {cx} {cy}" to="360 {cx} {cy}" dur="14s" repeatCount="indefinite"/></circle>'
+            f'<text x="232" y="62" font-family="{SANS}" font-size="27" font-weight="700" fill="url(#g)">IT Engineering Student</text>'
+            f'<text x="232" y="92" font-family="{SANS}" font-size="15" fill="{TEXT}">📍 Costa Rica    🎓 UTN</text>'
+            f'<circle cx="238" cy="116" r="5" fill="#3FB950"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>'
+            f'<animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/></circle>'
+            f'<text x="252" y="121" font-family="{SANS}" font-size="15" fill="#3FB950">Open to opportunities</text>'
+            f'{"".join(st)}</svg>')
 
 
 def rest(path):
@@ -182,7 +202,7 @@ if __name__ == "__main__":
     s = fetch()
     events = rest(f"/users/{LOGIN}/events/public?per_page=100")
     (OUT / "activity.svg").write_text(activity_svg(events))
-    (OUT / "chips.svg").write_text(chips_svg(s))
+    (OUT / "hero.svg").write_text(hero_svg(s))
     OUT.mkdir(exist_ok=True)
     (OUT / "stats.svg").write_text(stats_svg(s))
     (OUT / "languages.svg").write_text(langs_svg(s))

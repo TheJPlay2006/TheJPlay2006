@@ -177,29 +177,6 @@ def growing():
     save("growing.svg", "\n".join(p))
 
 
-# ---------------------------------------------------------------- quotes
-def quotes():
-    q = [("First, solve the problem. Then, write the code.", "John Johnson"),
-         ("Talk is cheap. Show me the code.", "Linus Torvalds"),
-         ("Make it work, make it right, make it fast.", "Kent Beck"),
-         ("Simplicity is the soul of efficiency.", "Austin Freeman"),
-         ("Programs must be written for people to read, and only incidentally for machines to execute.", "Harold Abelson")]
-    W, H, per = 760, 150, 6
-    D = per * len(q)
-    p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}</defs>',
-         f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>',
-         f'<text x="30" y="70" font-family="Georgia, serif" font-size="80" fill="url(#g)" opacity="0.5">“</text>']
-    for i, (text, who) in enumerate(q):
-        a, b = i / len(q), (i + 1) / len(q)
-        e = 0.03
-        kt = f"0;{max(a,0.0001):.4f};{a+e:.4f};{b-e:.4f};{b:.4f};1" if i else f"0;0.0001;{e:.4f};{b-e:.4f};{b:.4f};1"
-        vals = "0;0;1;1;0;0"
-        fs = 21 if len(text) < 70 else 17
-        p.append(f'<g opacity="0"><animate attributeName="opacity" values="{vals}" keyTimes="{kt}" dur="{D}s" repeatCount="indefinite"/>'
-                 f'<text x="{W/2}" y="70" text-anchor="middle" font-family="{SANS}" font-size="{fs}" font-style="italic" fill="{TEXT}">{esc(text)}</text>'
-                 f'<text x="{W/2}" y="108" text-anchor="middle" font-family="{MONO}" font-size="14" fill="{CYAN}">— {esc(who)}</text></g>')
-    p.append('</svg>')
-    save("quotes.svg", "\n".join(p))
 
 
 # ---------------------------------------------------------------- pills / buttons
@@ -243,19 +220,47 @@ def contact_buttons():
         save(f"contact-{slug}.svg", pill_shell(w, h, inner, fill=col, stroke="#ffffff33"))
 
 
-def tags():
-    """Header tags: location / university / availability."""
-    items = [("📍", "Costa Rica", CYAN), ("🎓", "UTN", PURPLE), ("🟢", "Open to opportunities", "#2EA043")]
-    x, parts = 4, []
-    for i, (ico, text, col) in enumerate(items):
-        w = int(len(text) * 8 + 58)
-        parts.append(f'<g transform="translate({x} 4)"><rect width="{w}" height="34" rx="17" fill="{PANEL}" stroke="{col}" stroke-width="1.5">'
-                     f'<animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.6s" begin="{i*0.5}s" repeatCount="indefinite"/></rect>'
-                     f'<text x="16" y="23" font-size="14">{ico}</text>'
-                     f'<text x="40" y="23" font-family="{SANS}" font-size="14" font-weight="600" fill="{TEXT}">{esc(text)}</text></g>')
-        x += w + 12
-    save("tags.svg", f'<svg xmlns="http://www.w3.org/2000/svg" width="{x-8}" height="42" viewBox="0 0 {x-8} 42">{"".join(parts)}</svg>')
+
+def social_pills():
+    """Compact icon pills for the header."""
+    for slug, name, col in [("linkedin", "LinkedIn", "#0A66C2"), ("gmail", "Gmail", "#EA4335"), ("github", "GitHub", "#30363D")]:
+        d = icon_path(slug)
+        w, h = int(len(name) * 8.4 + 76), 40
+        inner = (f'<g transform="translate(20 10) scale(0.8)"><path d="{d}" fill="#fff"/></g>'
+                 f'<text x="48" y="25.5" font-family="{SANS}" font-size="14" font-weight="700" fill="#fff">{name}</text>')
+        save(f"social-{slug}.svg", pill_shell(w, h, inner, fill=col, stroke="#ffffff33"))
+
+
+def utn_pill():
+    text = "Universidad Técnica Nacional (UTN) · Costa Rica"
+    w, h = int(len(text) * 7.6 + 60), 36
+    inner = (f'<text x="20" y="24" font-size="15">🎓</text>'
+             f'<text x="46" y="23.5" font-family="{SANS}" font-size="14" font-weight="600" fill="{TEXT}">{esc(text)}</text>')
+    save("utn.svg", pill_shell(w, h, inner))
+
+
+def status():
+    rows = [("Web Development", "Main interest", CYAN), ("Frontend", "Strong personal preference", PURPLE),
+            ("Artificial Intelligence", "High interest", CYAN), ("Databases", "Improving fundamentals", "#F0883E"),
+            ("Git & GitHub", "Active use", "#3FB950"), ("Tools & IDEs", "Constantly exploring", PURPLE),
+            ("Professional Growth", "Working toward company and freelance opportunities", CYAN)]
+    W, RH = 780, 46
+    H = RH * len(rows) + 16
+    p = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}</defs>',
+         f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="16" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>']
+    for i, (label, value, col) in enumerate(rows):
+        y = 8 + i * RH
+        d = i * 0.15
+        pw = int(len(value) * 7.2 + 44)
+        p.append(f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{d:.2f}s" fill="freeze"/>'
+                 + (f'<rect x="14" y="{y+3}" width="{W-28}" height="{RH-6}" rx="10" fill="{BG}" opacity="0.5"/>' if i % 2 == 0 else '')
+                 + f'<text x="34" y="{y+28}" font-family="{SANS}" font-size="15" font-weight="600" fill="{TEXT}">{esc(label)}</text>'
+                 f'<g transform="translate({W-34-pw} {y+9})"><rect width="{pw}" height="28" rx="14" fill="{col}" fill-opacity="0.14" stroke="{col}" stroke-opacity="0.7"/>'
+                 f'<circle cx="16" cy="14" r="4" fill="{col}"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" begin="{d}s" repeatCount="indefinite"/></circle>'
+                 f'<text x="28" y="19" font-family="{SANS}" font-size="13" fill="{TEXT}">{esc(value)}</text></g></g>')
+    p.append('</svg>')
+    save("status.svg", "\n".join(p))
 
 
 if __name__ == "__main__":
-    divider(); terminal(); focus(); growing(); quotes(); marquee(); nav_pills(); contact_buttons(); tags()
+    divider(); terminal(); focus(); growing(); marquee(); nav_pills(); contact_buttons(); social_pills(); utn_pill(); status()
