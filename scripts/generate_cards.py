@@ -176,17 +176,11 @@ def hero_svg(s):
         st.append(f'<text x="{x}" y="160" font-family="{SANS}" font-size="26" font-weight="700" fill="{CYAN}">{val}</text>'
                   f'<text x="{x}" y="178" font-family="{SANS}" font-size="12" fill="{MUTED}">{label}</text>')
     per = 6 * R
-    ripples = "".join(
-        f'<polygon points="{hexpts(0, 0, R)}" fill="none" stroke="{c}" stroke-width="2" opacity="0">'
-        f'<animateTransform attributeName="transform" type="scale" values="1;1.75" dur="3.6s" begin="{d}s" repeatCount="indefinite"/>'
-        f'<animate attributeName="opacity" values="0.7;0" dur="3.6s" begin="{d}s" repeatCount="indefinite"/></polygon>'
-        for c, d in [(CYAN, 0), (PURPLE, 1.2), (CYAN, 2.4)])
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}'
             f'<radialGradient id="glow"><stop offset="0" stop-color="{CYAN}" stop-opacity="0.22"/><stop offset="1" stop-color="{CYAN}" stop-opacity="0"/></radialGradient>'
             f'<clipPath id="av"><polygon points="{hexpts(cx, cy, R-3)}"/></clipPath></defs>'
-            f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>'
+            f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="{PANEL}"/>'
             f'<circle cx="{cx}" cy="{cy}" r="100" fill="url(#glow)"/>'
-            f'<g transform="translate({cx} {cy})">{ripples}</g>'
             f'<image href="data:{mime};base64,{img}" x="{cx-R}" y="{cy-R}" width="{2*R}" height="{2*R}" preserveAspectRatio="xMidYMid slice" clip-path="url(#av)"/>'
             f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="#30363D" stroke-width="3"/>'
             f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="{CYAN}" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 {per-70:.0f}" opacity="0.28"><animate attributeName="stroke-dashoffset" from="{per:.0f}" to="0" dur="4.5s" repeatCount="indefinite"/></polygon>'
