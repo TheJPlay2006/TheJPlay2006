@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=32" alt="Header Banner" />
 
 # 👋 Hi, I'm Jairo Herrera Romero
 
@@ -19,6 +19,12 @@
 <a href="mailto:jh599350@gmail.com"><img width="54" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TheJPlay2006"><img width="54" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/TheJPlay2006?style=flat-square&logo=github&color=9D4EDD&labelColor=0D1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/TheJPlay2006?style=flat-square&logo=github&color=36BCF7&labelColor=0D1117&affiliations=OWNER" alt="GitHub Stars" />
+<img src="https://komarev.com/ghpvc/?username=TheJPlay2006&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -41,7 +47,7 @@
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="about-me">👨‍💻 About Me</h2>
@@ -55,21 +61,14 @@ I enjoy learning by building, exploring new tools, improving my logic, and growi
 
 <br>
 
-| | |
-|:---|:---|
-| 🎓 **Studying** | Information Technology Engineering |
-| 🌐 **Passionate about** | Web development & Artificial Intelligence |
-| 💻 **Focused on** | Frontend, databases, support and infrastructure |
-| 🧠 **Learning style** | Constant and self-taught |
-| 🎯 **Goal** | Grow professionally and earn my place in a tech company |
-| 🚀 **Always** | Improving through practice and real projects |
+<img width="820" src="assets/terminal.svg" alt="Animated terminal: whoami, about, skills, goal" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="my-journey">🚀 My Journey</h2>
@@ -93,119 +92,48 @@ My main personal values are **perseverance, consistency, and continuous improvem
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,20,6&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="tech-stack">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+<img width="900" src="assets/marquee.svg" alt="Scrolling tech stack: Java, Python, JavaScript, PHP, C#, Go, C++, HTML, CSS, React, Bootstrap, Django, Laravel, .NET, Spring, MySQL, SQLite, PostgreSQL, Git, GitHub, VS Code, Docker, Figma, Postman" />
 
-<img src="https://skillicons.dev/icons?i=java,python,js,php,cs,go,cpp&theme=dark" alt="Programming Languages" />
-
-<sub>SQL • Object-Oriented Programming • Programming Logic</sub>
+<sub>SQL • Object-Oriented Programming • Responsive Design • Software Architecture • Database Design • ER Diagrams</sub>
 
 <br><br>
 
-### 🌐 Web Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Web Technologies" />
-
-<sub>Frontend Development • Responsive Design • Web Interfaces</sub>
-
-<br><br>
-
-### ⚙️ Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=django,laravel,dotnet,spring&theme=dark" alt="Frameworks and Technologies" />
-
-<sub>Backend Fundamentals • Web Applications • Software Architecture</sub>
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&theme=dark" alt="Databases" />
-
-<sub>MySQL • SQLite • PostgreSQL • SQL Server • Database Design • ER Diagrams</sub>
-
-<br><br>
-
-### 🔧 Tools & IDEs
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,figma,docker,postman&theme=dark" alt="Tools and IDEs" />
-
-<sub>Claude Code • Cursor • JetBrains IDEs • Apache NetBeans • XAMPP</sub>
+<sub>Claude Code • Cursor • JetBrains IDEs • Apache NetBeans • Visual Studio • XAMPP</sub>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,20,11&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="focus-areas">🎯 Focus Areas</h2>
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🌐 Frontend Development
-
-I enjoy creating visual interfaces, layouts, and web experiences that are clean, useful, and easy to use.
-
-</td>
-<td width="50%" align="center">
-
-### 🤖 Artificial Intelligence
-
-AI is one of the areas that interests me the most because of how powerful it can be for creating tools and solving problems.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🗄️ Databases
-
-I want to keep improving my database fundamentals, SQL skills, relationships, and data modeling.
-
-</td>
-<td width="50%" align="center">
-
-### 🛠️ Support & Infrastructure
-
-I am also interested in technical support, systems, tools, and infrastructure behind technology solutions.
-
-</td>
-</tr>
-</table>
+<img width="880" src="assets/focus.svg" alt="Focus areas: Frontend Development, Artificial Intelligence, Databases, Support and Infrastructure" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="currently-growing">📚 Currently Growing In</h2>
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 🌐 | Improving my web development skills |
-| 🗄️ | Strengthening database fundamentals |
-| 🛠️ | Practicing with real software projects |
-| 🤖 | Learning more about AI tools and development workflows |
-| 🧩 | Building better programming logic |
-| 📁 | Improving my professional portfolio |
-| 🌱 | Growing with consistency and perseverance |
+<img width="760" src="assets/growing.svg" alt="Currently growing: web development, databases, real projects, AI tools, programming logic, portfolio, consistency" />
 
 </div>
 
@@ -248,7 +176,7 @@ I am also interested in technical support, systems, tools, and infrastructure be
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="github-activity">📊 GitHub Activity</h2>
@@ -263,23 +191,19 @@ I am also interested in technical support, systems, tools, and infrastructure be
 
 <br><br>
 
+<img width="49%" src="assets/stats.svg" alt="GitHub Stats" />
+<img width="49%" src="assets/languages.svg" alt="Top Languages" />
+
+<br><br>
+
 <img width="100%" src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheJPlay2006&theme=tokyonight" alt="Top Languages by Repo" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheJPlay2006&theme=tokyonight" alt="Top Languages by Commit" />
-
-<br><br>
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheJPlay2006&theme=tokyonight" alt="GitHub Stats" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="personal-side">🎵 Personal Side</h2>
@@ -300,15 +224,14 @@ Music is part of my daily routine while studying, coding, and learning new thing
 
 <br>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+<img width="760" src="assets/quotes.svg" alt="Rotating developer quotes" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img width="80%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" alt="Divider" />
+  <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
 <h2 align="center" id="contact">📫 Contact</h2>
@@ -324,12 +247,6 @@ Music is part of my daily routine while studying, coding, and learning new thing
 [![GitHub](https://img.shields.io/badge/GitHub-TheJPlay2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheJPlay2006)
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=TheJPlay2006&style=flat&color=36BCF7" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/TheJPlay2006?style=flat&logo=github&color=9D4EDD&labelColor=0D1117" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/TheJPlay2006?style=flat&logo=github&color=36BCF7&labelColor=0D1117" alt="GitHub Stars" />
-
-<br><br>
 
 ### ✨ Thanks for visiting my profile!
 
