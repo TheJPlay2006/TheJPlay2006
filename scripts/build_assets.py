@@ -202,5 +202,60 @@ def quotes():
     save("quotes.svg", "\n".join(p))
 
 
+# ---------------------------------------------------------------- pills / buttons
+NAV = [("About Me", "about-me"), ("My Journey", "my-journey"), ("Tech Stack", "tech-stack"), ("Focus Areas", "focus-areas"),
+       ("Currently Growing", "currently-growing"), ("GitHub Activity", "github-activity"), ("Contact", "contact")]
+
+
+def pill_shell(w, h, inner, fill=PANEL, stroke="url(#g)", uid="p"):
+    """Rounded pill with animated shimmer sweeping across it."""
+    r = h / 2
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}"><defs>{GRAD}'
+            f'<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>'
+            f'<clipPath id="c"><rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r-1}"/></clipPath></defs>'
+            f'<rect x="1" y="1" width="{w-2}" height="{h-2}" rx="{r-1}" fill="{fill}" stroke="{stroke}" stroke-width="1.5"/>'
+            f'<g clip-path="url(#c)"><rect x="-40" y="0" width="40" height="{h}" fill="url(#sh)"><animate attributeName="x" values="-40;{w+40};{w+40}" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/></rect></g>'
+            f'{inner}</svg>')
+
+
+def nav_pills():
+    for label, slug in NAV:
+        w, h = int(len(label) * 6.9 + 30), 32
+        inner = f'<text x="{w/2}" y="{h/2+5}" text-anchor="middle" font-family="{SANS}" font-size="13" font-weight="600" fill="{TEXT}">{esc(label)}</text>'
+        save(f"nav-{slug}.svg", pill_shell(w, h, inner))
+
+
+def icon_path(slug):
+    import re
+    req = urllib.request.Request(f"https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/{slug}.svg", headers={"User-Agent": "Mozilla/5.0"})
+    return re.search(r' d="([^"]+)"', urllib.request.urlopen(req, timeout=30).read().decode()).group(1)
+
+
+def contact_buttons():
+    items = [("linkedin", "LinkedIn", "jairoshr", "#0A66C2"), ("gmail", "Gmail", "jh599350@gmail.com", "#EA4335"),
+             ("github", "GitHub", "TheJPlay2006", "#30363D")]
+    for slug, name, handle, col in items:
+        d = icon_path(slug)
+        w, h = int(max(len(name) * 8.5, len(handle) * 7.4) + 100), 52
+        inner = (f'<g transform="translate(22 14) scale(1)"><path transform="scale(1)" d="{d}" fill="#fff"/></g>'
+                 f'<text x="58" y="23" font-family="{SANS}" font-size="12" fill="#fff" opacity="0.8">{name}</text>'
+                 f'<text x="58" y="41" font-family="{SANS}" font-size="14" font-weight="700" fill="#fff">{esc(handle)}</text>')
+        save(f"contact-{slug}.svg", pill_shell(w, h, inner, fill=col, stroke="#ffffff33"))
+
+
+def tags():
+    """Header tags: location / university / availability."""
+    items = [("📍", "Costa Rica", CYAN), ("🎓", "UTN", PURPLE), ("🟢", "Open to opportunities", "#2EA043")]
+    x, parts = 4, []
+    for i, (ico, text, col) in enumerate(items):
+        w = int(len(text) * 8 + 58)
+        parts.append(f'<g transform="translate({x} 4)"><rect width="{w}" height="34" rx="17" fill="{PANEL}" stroke="{col}" stroke-width="1.5">'
+                     f'<animate attributeName="stroke-opacity" values="0.45;1;0.45" dur="3.6s" begin="{i*0.5}s" repeatCount="indefinite"/></rect>'
+                     f'<text x="16" y="23" font-size="14">{ico}</text>'
+                     f'<text x="40" y="23" font-family="{SANS}" font-size="14" font-weight="600" fill="{TEXT}">{esc(text)}</text></g>')
+        x += w + 12
+    save("tags.svg", f'<svg xmlns="http://www.w3.org/2000/svg" width="{x-8}" height="42" viewBox="0 0 {x-8} 42">{"".join(parts)}</svg>')
+
+
 if __name__ == "__main__":
-    divider(); terminal(); focus(); growing(); quotes(); marquee()
+    divider(); terminal(); focus(); growing(); quotes(); marquee(); nav_pills(); contact_buttons(); tags()

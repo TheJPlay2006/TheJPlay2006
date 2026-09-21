@@ -8,9 +8,7 @@
 
 <br>
 
-![Costa Rica](https://img.shields.io/badge/Costa_Rica-36BCF7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
-![UTN](https://img.shields.io/badge/UTN-9D4EDD?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117)
-![Open to opportunities](https://img.shields.io/badge/Open_to-opportunities-2EA043?style=for-the-badge&labelColor=0D1117)
+<img src="assets/tags.svg" alt="Costa Rica · UTN · Open to opportunities" />
 
 <br>
 
@@ -22,9 +20,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/TheJPlay2006?style=flat-square&logo=github&color=9D4EDD&labelColor=0D1117" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/TheJPlay2006?style=flat-square&logo=github&color=36BCF7&labelColor=0D1117&affiliations=OWNER" alt="GitHub Stars" />
-<img src="https://komarev.com/ghpvc/?username=TheJPlay2006&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="assets/chips.svg" alt="GitHub followers, stars, repos and commits" />
 
 </div>
 
@@ -34,13 +30,13 @@
 
 <div align="center">
 
-[![About Me](https://img.shields.io/badge/About_Me-36BCF7?style=flat-square&labelColor=0D1117)](#about-me)
-[![My Journey](https://img.shields.io/badge/My_Journey-9D4EDD?style=flat-square&labelColor=0D1117)](#my-journey)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-36BCF7?style=flat-square&labelColor=0D1117)](#tech-stack)
-[![Focus Areas](https://img.shields.io/badge/Focus_Areas-9D4EDD?style=flat-square&labelColor=0D1117)](#focus-areas)
-[![Currently Growing](https://img.shields.io/badge/Currently_Growing-36BCF7?style=flat-square&labelColor=0D1117)](#currently-growing)
-[![GitHub Activity](https://img.shields.io/badge/GitHub_Activity-9D4EDD?style=flat-square&labelColor=0D1117)](#github-activity)
-[![Contact](https://img.shields.io/badge/Contact-36BCF7?style=flat-square&labelColor=0D1117)](#contact)
+<a href="#about-me"><img src="assets/nav-about-me.svg" alt="About Me" /></a>
+<a href="#my-journey"><img src="assets/nav-my-journey.svg" alt="My Journey" /></a>
+<a href="#tech-stack"><img src="assets/nav-tech-stack.svg" alt="Tech Stack" /></a>
+<a href="#focus-areas"><img src="assets/nav-focus-areas.svg" alt="Focus Areas" /></a>
+<a href="#currently-growing"><img src="assets/nav-currently-growing.svg" alt="Currently Growing" /></a>
+<a href="#github-activity"><img src="assets/nav-github-activity.svg" alt="GitHub Activity" /></a>
+<a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" /></a>
 
 </div>
 
@@ -196,7 +192,37 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br><br>
 
+<img width="100%" src="assets/activity.svg" alt="Recent public GitHub activity" />
+
+<br><br>
+
 <img width="100%" src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="assets/divider.svg" alt="" />
+</div>
+
+<h2 align="center" id="companions">🐱 Companions</h2>
+
+<div align="center">
+
+<sub>A pixel cat that reacts to my real activity, and a bonsai grown from my commit history. Both update themselves.</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet-light.svg">
+  <img alt="My GitHub pet" src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet.svg" width="100%" />
+</picture>
+
+<br><br>
+
+<img src="output/bonsai-growth.gif" width="384" alt="My git-bonsai growing from a seed" />
 
 </div>
 
@@ -242,9 +268,9 @@ Music is part of my daily routine while studying, coding, and learning new thing
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jairoshr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairoshr/)
-[![Gmail](https://img.shields.io/badge/Gmail-jh599350@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jh599350@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-TheJPlay2006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheJPlay2006)
+<a href="https://www.linkedin.com/in/jairoshr/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:jh599350@gmail.com"><img src="assets/contact-gmail.svg" alt="Gmail" /></a>
+<a href="https://github.com/TheJPlay2006"><img src="assets/contact-github.svg" alt="GitHub" /></a>
 
 <br>
 

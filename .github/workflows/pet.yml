@@ -1,0 +1,22 @@
+name: Update Pet
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      # prsdx/github-pet v1, pinned to a commit
+      - uses: prsdx/github-pet@988c75ee4f1ad5374d3ca692db4b307761776067
+        with:
+          username: TheJPlay2006
+          timezone-offset-minutes: "-360" # Costa Rica, UTC-6
+          accent-color: "#36BCF7"

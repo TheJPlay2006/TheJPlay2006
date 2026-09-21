@@ -100,8 +100,89 @@ def langs_svg(s):
     return card(400, 280, "Top Languages", "".join(b))
 
 
+def chips_svg(s):
+    items = [("👥", f"{s['followers']:,}", "followers"), ("⭐", f"{s['stars']:,}", "stars"),
+             ("📦", f"{s['repos']:,}", "repos"), ("📝", f"{s['commits']:,}", "commits")]
+    x, parts = 4, []
+    for i, (ico, val, label) in enumerate(items):
+        w = int(len(val) * 9.5 + len(label) * 7 + 62)
+        parts.append(f'<g transform="translate({x} 4)"><rect width="{w}" height="34" rx="17" fill="{PANEL}" stroke="url(#g)" stroke-width="1.5"/>'
+                     f'<text x="16" y="23" font-size="14">{ico}</text>'
+                     f'<text x="40" y="23" font-family="{SANS}" font-size="14" font-weight="700" fill="{CYAN}">{val}</text>'
+                     f'<text x="{40+len(val)*9.5+6:.0f}" y="23" font-family="{SANS}" font-size="13" fill="{MUTED}">{label}</text></g>')
+        x += w + 12
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{x-8}" height="42" viewBox="0 0 {x-8} 42"><defs>{GRAD}</defs>'
+            f'{"".join(parts)}</svg>')
+
+
+def rest(path):
+    req = urllib.request.Request(f"https://api.github.com{path}", headers={
+        "Authorization": f"bearer {os.environ['GITHUB_TOKEN']}", "User-Agent": "profile-cards",
+        "Accept": "application/vnd.github+json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.load(r)
+
+
+def describe(e):
+    """Turn a public event into (emoji, text) or None when it is not worth showing."""
+    t, p, repo = e["type"], e["payload"], e["repo"]["name"].split("/")[-1]
+    if t == "PushEvent":
+        n = p.get("size") or len(p.get("commits", [])) or 1
+        return "📝", f"Pushed {n} commit{'s' if n != 1 else ''} to {repo}"
+    if t == "PullRequestEvent":
+        pr = p["pull_request"]
+        act = "Merged" if pr.get("merged") else p["action"].capitalize()
+        return "🔀", f"{act} PR #{pr['number']} in {repo}"
+    if t == "IssuesEvent":
+        return "⚠️", f"{p['action'].capitalize()} issue #{p['issue']['number']} in {repo}"
+    if t == "IssueCommentEvent":
+        return "💬", f"Commented on #{p['issue']['number']} in {repo}"
+    if t == "CreateEvent" and p.get("ref_type") == "repository":
+        return "🚀", f"Created repository {repo}"
+    if t == "WatchEvent":
+        return "⭐", f"Starred {e['repo']['name']}"
+    if t == "ForkEvent":
+        return "🍴", f"Forked {e['repo']['name']}"
+    if t == "ReleaseEvent":
+        return "🏷️", f"Released {p['release']['tag_name']} in {repo}"
+    return None
+
+
+def activity_svg(events, limit=6, max_chars=52):
+    rows, seen = [], set()
+    for e in events:
+        d = describe(e)
+        if not d:
+            continue
+        day = e["created_at"][:10]
+        key = (day, d[1])
+        if key in seen:                       # collapse repeated identical events on the same day
+            continue
+        seen.add(key)
+        rows.append((d[0], d[1] if len(d[1]) <= max_chars else d[1][:max_chars - 1] + "…",
+                     datetime.date.fromisoformat(day).strftime("%b %d")))
+        if len(rows) == limit:
+            break
+    h = 70 + 38 * max(len(rows), 1) + 24
+    b = []
+    for i, (ico, text, day) in enumerate(rows):
+        y = 84 + i * 38
+        b.append(f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="{0.18*i:.2f}s" fill="freeze"/>'
+                 f'<animateTransform attributeName="transform" type="translate" from="-14 0" to="0 0" dur="0.5s" begin="{0.18*i:.2f}s" fill="freeze"/>'
+                 f'<rect x="20" y="{y-22}" width="760" height="30" rx="8" fill="{BG}" opacity="0.55"/>'
+                 f'<text x="34" y="{y}" font-size="16">{ico}</text>'
+                 f'<text x="66" y="{y}" font-family="{SANS}" font-size="15" fill="{TEXT}" xml:space="preserve">{esc(text)}</text>'
+                 f'<text x="766" y="{y}" text-anchor="end" font-family="{SANS}" font-size="13" fill="{MUTED}">{day}</text></g>')
+    if not rows:
+        b.append(f'<text x="400" y="100" text-anchor="middle" font-family="{SANS}" font-size="15" fill="{MUTED}">No recent public activity</text>')
+    return card(800, h, "Recent Activity", "".join(b))
+
+
 if __name__ == "__main__":
     s = fetch()
+    events = rest(f"/users/{LOGIN}/events/public?per_page=100")
+    (OUT / "activity.svg").write_text(activity_svg(events))
+    (OUT / "chips.svg").write_text(chips_svg(s))
     OUT.mkdir(exist_ok=True)
     (OUT / "stats.svg").write_text(stats_svg(s))
     (OUT / "languages.svg").write_text(langs_svg(s))
