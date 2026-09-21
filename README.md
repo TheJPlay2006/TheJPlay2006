@@ -6,7 +6,7 @@
 
 <br>
 
-<img width="820" src="assets/hero.svg?v=2" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
+<img width="820" src="assets/hero.svg?v=3" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
 
 <br><br>
 

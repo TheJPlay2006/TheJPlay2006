@@ -159,10 +159,6 @@ def avatar_b64():
         return base64.b64encode(r.read()).decode(), r.headers.get_content_type()
 
 
-def hexpts(cx, cy, R):
-    return " ".join(f"{cx + R*math.cos(math.radians(-90+60*k)):.1f},{cy + R*math.sin(math.radians(-90+60*k)):.1f}" for k in range(6))
-
-
 def hero_svg(s):
     img, mime = avatar_b64()
     W, H, cx, cy, R = 820, 200, 112, 100, 60
@@ -175,17 +171,13 @@ def hero_svg(s):
             st.append(f'<rect x="{x-18}" y="136" width="1" height="38" fill="#30363D"/>')
         st.append(f'<text x="{x}" y="160" font-family="{SANS}" font-size="26" font-weight="700" fill="{CYAN}">{val}</text>'
                   f'<text x="{x}" y="178" font-family="{SANS}" font-size="12" fill="{MUTED}">{label}</text>')
-    per = 6 * R
     return (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}"><defs>{GRAD}'
             f'<radialGradient id="glow"><stop offset="0" stop-color="{CYAN}" stop-opacity="0.22"/><stop offset="1" stop-color="{CYAN}" stop-opacity="0"/></radialGradient>'
-            f'<clipPath id="av"><polygon points="{hexpts(cx, cy, R-3)}"/></clipPath></defs>'
+            f'<clipPath id="av"><rect x="{cx-R+2}" y="{cy-R+2}" width="{2*R-4}" height="{2*R-4}" rx="26"/></clipPath></defs>'
             f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="{PANEL}"/>'
             f'<circle cx="{cx}" cy="{cy}" r="100" fill="url(#glow)"/>'
             f'<image href="data:{mime};base64,{img}" x="{cx-R}" y="{cy-R}" width="{2*R}" height="{2*R}" preserveAspectRatio="xMidYMid slice" clip-path="url(#av)"/>'
-            f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="#30363D" stroke-width="3"/>'
-            f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="{CYAN}" stroke-width="7" stroke-linecap="round" stroke-dasharray="70 {per-70:.0f}" opacity="0.28"><animate attributeName="stroke-dashoffset" from="{per:.0f}" to="0" dur="4.5s" repeatCount="indefinite"/></polygon>'
-            f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="{CYAN}" stroke-width="3" stroke-linecap="round" stroke-dasharray="70 {per-70:.0f}"><animate attributeName="stroke-dashoffset" from="{per:.0f}" to="0" dur="4.5s" repeatCount="indefinite"/></polygon>'
-            f'<polygon points="{hexpts(cx, cy, R)}" fill="none" stroke="{PURPLE}" stroke-width="3" stroke-linecap="round" stroke-dasharray="70 {per-70:.0f}"><animate attributeName="stroke-dashoffset" from="{per/2+per:.0f}" to="{per/2:.0f}" dur="4.5s" repeatCount="indefinite"/></polygon>'
+            f'<rect x="{cx-R+1}" y="{cy-R+1}" width="{2*R-2}" height="{2*R-2}" rx="28" fill="none" stroke="url(#g)" stroke-width="3"/>'
             f'<text x="232" y="62" font-family="{SANS}" font-size="27" font-weight="700" fill="url(#g)">Junior Full-Stack Developer</text>'
             f'<text x="232" y="92" font-family="{SANS}" font-size="15" fill="{TEXT}">🎓 IT Engineering Student · Universidad Técnica Nacional</text>'
             f'<circle cx="238" cy="116" r="5" fill="#3FB950"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/>'
