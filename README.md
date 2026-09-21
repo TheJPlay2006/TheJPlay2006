@@ -149,12 +149,11 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br><br>
 
-<img width="49%" src="assets/stats.svg" alt="GitHub Stats" />
-<img width="49%" src="assets/languages.svg" alt="Top Languages" />
+<img width="820" src="assets/stats.svg" alt="GitHub stats: commits, pull requests, issues, stars, repos, followers, languages" />
 
-<br><br>
+<br>
 
-<img width="100%" src="assets/activity.svg" alt="Recent public GitHub activity" />
+<img width="820" src="assets/languages.svg" alt="Top languages by repository size" />
 
 <br><br>
 
