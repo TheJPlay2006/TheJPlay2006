@@ -12,9 +12,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/jairoshr/"><img src="assets/social-linkedin.svg" alt="LinkedIn" /></a>
-<a href="mailto:jh599350@gmail.com"><img src="assets/social-gmail.svg" alt="Gmail" /></a>
-<a href="https://github.com/TheJPlay2006"><img src="assets/social-github.svg" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jairoshr/"><img src="assets/contact-linkedin.svg" alt="LinkedIn" /></a>
+<a href="mailto:jh599350@gmail.com"><img src="assets/contact-gmail.svg" alt="Gmail" /></a>
+<a href="https://github.com/TheJPlay2006"><img src="assets/contact-github.svg" alt="GitHub" /></a>
 
 </div>
 

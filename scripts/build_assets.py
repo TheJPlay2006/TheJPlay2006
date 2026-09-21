@@ -210,17 +210,7 @@ def contact_buttons():
 
 
 
-def social_pills():
-    """Compact icon pills for the header."""
-    for slug, name, col in [("linkedin", "LinkedIn", "#0A66C2"), ("gmail", "Gmail", "#EA4335"), ("github", "GitHub", "#30363D")]:
-        d = icon_path(slug)
-        w, h = int(len(name) * 8.4 + 76), 40
-        inner = (f'<g transform="translate(20 10) scale(0.8)"><path d="{d}" fill="#fff"/></g>'
-                 f'<text x="48" y="25.5" font-family="{SANS}" font-size="14" font-weight="700" fill="#fff">{name}</text>')
-        save(f"social-{slug}.svg", pill_shell(w, h, inner, fill=col, stroke="#ffffff33"))
-
-
 
 
 if __name__ == "__main__":
-    divider(); terminal(); focus(); growing(); marquee(); contact_buttons(); social_pills()
+    divider(); terminal(); focus(); growing(); marquee(); contact_buttons()
