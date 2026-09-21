@@ -4,8 +4,6 @@
 
 # 👋 Hi, I'm Jairo Herrera Romero
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Junior+Full-Stack+Developer;Information+Technology+Engineering+Student;Frontend+%7C+Backend+%7C+Databases+%7C+Automation" alt="Typing SVG" />
-
 <br>
 
 <img width="820" src="assets/hero.svg" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
