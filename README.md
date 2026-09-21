@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Jairo Herrera Romero
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Information+Technology+Engineering+Student;Passionate+about+Web+Development+and+AI;Frontend+%7C+Databases+%7C+Infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Junior+Full-Stack+Developer;Information+Technology+Engineering+Student;Passionate+about+Web+Development+and+AI;Frontend+%7C+Backend+%7C+Databases+%7C+Automation" alt="Typing SVG" />
 
 <br>
 
@@ -28,14 +28,52 @@
 
 <div align="center">
 
-I am an **Information Technology Engineering student at Universidad Técnica Nacional (UTN), Costa Rica**.
+I am a **Junior Full-Stack Developer** and an **Information Technology Engineering student at Universidad Técnica Nacional (UTN), Costa Rica**.
+
+I have professional experience in web development, UI, WordPress, technical support, servers, databases, automation and bots, building practical solutions for real business needs.
 
 I am passionate about **technology, web development, artificial intelligence, and software creation**.<br>
-I enjoy learning by building, exploring new tools, improving my logic, and growing step by step as a future IT professional.
+I enjoy learning by building, exploring new tools, improving my logic, and growing step by step as an IT professional.
 
 <br>
 
 <img width="820" src="assets/terminal.svg" alt="Animated terminal: whoami, about, skills, goal" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="assets/divider.svg" alt="" />
+</div>
+
+<h2 align="center" id="experience">💼 Experience</h2>
+
+<div align="center">
+
+<img width="840" src="assets/experience.svg" alt="Experience: Junior Full-Stack Developer at ForeSight Solutions (Oct 2025 to present) and freelance web designer/developer (Jan 2025 to present)" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="85%" src="assets/divider.svg" alt="" />
+</div>
+
+<h2 align="center" id="featured-projects">📂 Featured Projects</h2>
+
+<div align="center">
+
+<img width="820" src="assets/project-erp.svg" alt="Two Little Monkeys ERP and POS: offline-first business system built with C#, .NET 8, Avalonia UI, ASP.NET Core, SQLite and PostgreSQL" />
+
+<br>
+
+<img width="820" src="assets/project-restaurant.svg" alt="Restaurante Parrillero: responsive informational website" />
+
+<br>
+
+<a href="https://tiendahi.com"><img width="820" src="assets/project-tiendahi.svg" alt="Tienda Hi: featured web project, tiendahi.com" /></a>
 
 </div>
 
@@ -118,18 +156,36 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br>
 
-**Programming:** Java, Python, JavaScript, PHP, C#, SQL, Go and C++.
+**Programming:** C#, Java, Python, JavaScript, PHP, SQL, Go and C++.
 
-**Web & Frameworks:** HTML, CSS, React, Bootstrap, Django, Laravel, .NET and Spring Boot.
+**Web & Frameworks:** HTML, CSS, React, Bootstrap, Laravel, Django, .NET, ASP.NET Core, Spring Boot and WordPress.
 
-**Databases:** MySQL, SQLite, PostgreSQL, SQL Server, database design, entity-relationship diagrams and CRUD systems.
+**Databases:** PostgreSQL, MySQL, SQLite and SQL Server, database design, entity-relationship diagrams and CRUD systems.
 
-**Tools:** Git, GitHub, Claude Code, Cursor, Visual Studio, Visual Studio Code, JetBrains IDEs, Apache NetBeans, XAMPP, Docker, Postman and Figma.
+**Tools:** Git, GitHub, Docker, Postman, Figma, Claude Code, Cursor, Visual Studio, VS Code, JetBrains IDEs, Apache NetBeans and XAMPP.
 
-**Areas of interest:** Web development, frontend development, artificial intelligence, databases, support, infrastructure, freelance work and company-based professional growth.
+**Areas:** Frontend, backend, UI, REST APIs, Linux, IT support, automation, bots, applied AI and infrastructure.
 
 </details>
 
+
+<br>
+
+<div align="center">
+  <img width="85%" src="assets/divider.svg" alt="" />
+</div>
+
+<h2 align="center" id="credentials">🏅 Certifications & Education</h2>
+
+<div align="center">
+
+<img width="880" src="assets/certs.svg" alt="Certifications: CCNA (Cisco), GitHub Foundations, AB-900T00 Microsoft 365 and AI Administration, Analysis and Automation with Python" />
+
+<br>
+
+<img width="900" src="assets/profile.svg" alt="Education at UTN, languages (Spanish native, English A2) and strengths" />
+
+</div>
 
 <br>
 
@@ -158,6 +214,8 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br><br>
 
+### 🐍 Contribution Snake
+
 <img width="100%" src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
@@ -168,27 +226,13 @@ My main personal values are **perseverance, consistency, and continuous improvem
   <img width="85%" src="assets/divider.svg" alt="" />
 </div>
 
-<h2 align="center" id="companions">🐱 Companions</h2>
+<h2 align="center" id="bonsai">🌳 My Commit Bonsai</h2>
 
 <div align="center">
 
-<sub>A pixel cat that reacts to my real activity, and a bonsai grown from my commit history. Both update themselves.</sub>
+<sub>Grown from my commit history: the more I build, the bigger it gets. It updates itself every day.</sub>
 
 <br><br>
-
-### 🐱 My Pixel Cat
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet-light.svg">
-  <img alt="My GitHub pet" src="https://raw.githubusercontent.com/TheJPlay2006/TheJPlay2006/main/dist/pet.svg" width="100%" />
-</picture>
-
-<br><br>
-
-### 🌳 My Commit Bonsai
-
-<sub>Grown from my commit history: the more I build, the bigger it gets.</sub>
 
 <img src="output/bonsai-growth.gif" width="384" alt="My git-bonsai growing from a seed" />
 
