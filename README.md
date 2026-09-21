@@ -6,7 +6,7 @@
 
 <br>
 
-<img width="820" src="assets/hero.svg" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
+<img width="820" src="assets/hero.svg?v=2" alt="Jairo Herrera Romero: IT Engineering student, Costa Rica, open to opportunities" />
 
 <br><br>
 
@@ -149,11 +149,11 @@ My main personal values are **perseverance, consistency, and continuous improvem
 
 <br><br>
 
-<img width="820" src="assets/stats.svg" alt="GitHub stats: commits, pull requests, issues, stars, repos, followers, languages" />
+<img width="820" src="assets/stats.svg?v=2" alt="GitHub stats: commits, pull requests, issues, stars, repos, followers, languages" />
 
 <br><br><br>
 
-<img width="820" src="assets/languages.svg" alt="Top languages by repository size" />
+<img width="820" src="assets/languages.svg?v=2" alt="Top languages by repository size" />
 
 <br><br>
 
